@@ -76,6 +76,6 @@ def main():
                 continue
 
             if getUser(line).upper() not in [ "WAIFU4U", "NIGHTBOT", "MOOBOT", "SALTYBOT"]:
-                
-                print(getMessage(line))
+                if "@" not in getMessage(line):            
+                    print(getMessage(line))
 main();
