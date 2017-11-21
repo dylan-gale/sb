@@ -1,0 +1,918 @@
+['Simon belmont(fc)', '19', '42', 'X', '640', '0', 'Lol', '1', 'Magatu', '80', '36', 'X', '1000', '0', 'Pre-to', '1', 0.5357, 1] 
+
+['Blue worker', '30', '73', 'S', '1000', '-1', 'Peter.pl', '2', 'Julian solo poseidon', '241', '57', 'S', '2000', '-1', 'Xzblue', '2', 1.2324, 1] 
+
+['Darthvader', '222', '68', 'A', '1500', '-1', 'Dan hollandsworth', '1', 'Alyssa searrs', '19', '37', 'A', '1000', '-1', 'Seravy', '4', 2.3854, 1] 
+
+['Miyoshi karin', '90', '24', 'S', '960', '-1', 'Arumikan', '2', 'Ridley other m', '159', '54', 'S', '1500', '-1', 'Bagansmashbros', '3', 0.1169, 1] 
+
+['Tsunade kk', '19', '26', 'A', '1000', '-1', 'Roque', '2', 'Hydron', '354', '55', 'A', '1020', '-1', 'Doggiedoo', '1', 0.3165, 1] 
+
+['Terminator orochi', '99', '39', 'S', '1000', '-1', 'Jor8a (edited) elecbyte (made)', '2', 'Assiette', '314', '46', 'S', '1000', '-1', 'Pre-to', '1', 0.2104, 1] 
+
+['Jedah dohma', '115', '40', 'A', '1000', '-1', 'Izumo', '2', 'Sonic', '498', '43', 'A', '968', '-1', 'Veanko', '4', 4.7818, 0] 
+
+['Cursor', '360', '45', 'S', '1000', '-1', 'N-mario', '3', 'Laurence blood rb2', '140', '44', 'S', '1000', '-1', 'Tora', '4', 1.0371, 1] 
+
+['Alcott', '330', '55', 'A', '1100', '-1', 'Kamekaze', '3', 'Andy_ff3rb', '281', '58', 'A', '1000', '-1', 'Sekirei', '4', 0.3845, 1] 
+
+['Smoke?', '96', '47', 'A', '1000', '-1', 'The magic toaster', '4', 'Taskmaster', '126', '51', 'A', '1120', '-1', 'Rojin70', '1', 0.264, 1] 
+
+['Robo-ky type-pee', '143', '36', 'S', '1000', '-1', 'Rei', '1', 'Angelg', '28', '46', 'S', '1000', '-1', 'Sute', '2', 3.8101, 0] 
+
+['Tanuki', '268', '28', 'S', '1010', '-1', 'Taichi_tanukida', '3', 'A perfect soldier', '137', '84', 'S', '1000', '-1', 'Adamskie', '4', 0.0167, 1] 
+
+['Zatracenie', '305', '46', 'S', '1000', '-1', 'Mother earth', '3', 'Alter wind', '350', '78', 'S', '1000', '-1', 'Yokurei', '1', 0.0269, 1] 
+
+['Magneto_cota', '377', '81', 'S', '1000', '-1', 'Kaz', '1', 'Tyrantrum', '100', '41', 'S', '1000', '-1', 'Minoo', '3', 9.1274, 0] 
+
+['12', '29', '21', 'A', '914', '-1', 'Rei', '4', 'Ado', '220', '55', 'A', '1000', '-1', 'Ganva', '1', 0.0609, 1] 
+
+['Amato', '353', '65', 'S', '1300', '-1', 'Suika_no_otto', '3', 'Umvc_gouki', '359', '56', 'S', '1010', '-1', 'Rel', '2', 1.5786, 0] 
+
+['Inubisu', '99', '69', 'A', '1000', '-1', 'Masukenpu-kun', '1', 'Genjuro kibagami', '87', '57', 'A', '1000', '-1', 'Ali', '1', 0.9074, 1] 
+
+['Turn-x', '266', '64', 'A', '1000', '-1', 'Gen', '3', 'Gardener kurama', '121', '60', 'A', '1000', '-1', 'Pyrovivi (edited by kestel)', '1', 3.2059, 0] 
+
+['Ash crimson', '204', '65', 'B', '1000', '-1', 'Chazzanova & quickfist', '4', 'Cordelia', '19', '53', 'B', '1000', '-1', 'Elecbyte', '4', 0.6896, 1] 
+
+['Diokles', '318', '38', 'A', '1000', '-1', 'Mitai dake', '2', 'Kyosuke shigure', '214', '42', 'A', '1000', '-1', '(^o^)', '1', 0.273, 0] 
+
+['Model z', '229', '56', 'A', '1100', '-1', '? - jojo fu', '4', 'Amingo MVC2', '258', '48', 'A', '1000', '-1', 'Kamekaze', '4', 1.2756, 0] 
+
+['Amakusa ex', '282', '53', 'S', '1000', '-1', 'Masquer', '4', 'Faust', '405', '50', 'S', '1000', '-1', 'Muteki', '4', 1.9355, 0] 
+
+['Lyner_barsett', '30', '73', 'S', '1000', '-1', 'Z.a.i.', '2', 'Captainamerica EX3', '315', '83', 'S', '1000', '-1', 'Unkoman', '1', 0.0983, 1] 
+
+['Ssf2x akuma', '178', '41', 'S', '966', '-1', 'G.d.t', '1', 'Ikadevil', '288', '75', 'S', '1000', '-1', 'Muu', '2', 0.1111, 1] 
+
+['Kaizuka bocky mogra', '18', '56', 'B', '1000', '-1', 'Y77+', '4', 'Mamizou EX', '142', '42', 'B', '1500', '-1', 'Minoo', '1', 4.1282, 0] 
+
+['Super_zak', '129', '53', 'A', '1000', '-1', 'Tamago kanten', '1', 'Papyrus', '72', '24', 'A', '1000', '-1', 'Fourthrhyme', '4', 4.3346, 0] 
+
+['Werleck EX3', '207', '42', 'A', '1000', '-1', 'Ankokunaitou', '4', 'Omanyte', '242', '45', 'A', '1000', '-1', 'Dj hannibalroyce', '4', 0.3112, 1] 
+
+['Poison qyc', '340', '44', 'S', '1000', '-1', 'Qy china', '2', 'H-duolon', '474', '59', 'S', '1300', '-1', 'Dls', '1', 1.6828, 1] 
+
+['Tam tam', '232', '45', 'A', '1000', '-1', 'Ironhead', '2', 'Ultimate aizen', '311', '55', 'A', '1300', '-1', 'Oz', '2', 1.1044, 0] 
+
+['B.jenet_n', '318', '52', 'A', '1200', '-1', 'Fervicante', '4', 'Rascal', '270', '47', 'A', '2010', '-1', 'Uji', '4', 0.2217, 0] 
+
+['Giorno giovanna ge', '122', '61', 'A', '1000', '-1', 'Amarimono', '2', 'Fordy', '386', '49', 'A', '1000', '-1', 'Cyberbots', '2', 4.8818, 0] 
+
+['Road runner', '228', '35', 'A', '1000', '-1', 'Dj hannibalroyce', '1', 'Bekkamu2', '333', '49', 'A', '1000', '-1', 'Googoo64', '2', 0.28, 1] 
+
+['Mark sein', '316', '48', 'A', '1000', '-1', 'Mother earth', '3', 'Adam EX3', '199', '65', 'A', '1000', '-1', 'Tokage', '4', 0.4001, 1] 
+
+['Sans EX7', '20', '30', 'S', '2', '-1', '1850', '3', 'Amoumi', '90', '51', 'S', '1000', '-1', 'Zelgadis', '4', 0.2056, 1] 
+
+['Kazama kazuki', '385', '53', 'A', '1000', '-1', 'Ckenni and system id', '4', 'Heracross', '23', '78', 'A', '1000', '-1', 'Gladiacloud', '4', 0.0571, 1] 
+
+['God urien', '70', '70', 'B', '1150', '-1', 'Shin_lvl2_akuma', '1', 'Junior', '50', '12', 'B', '1000', '-1', 'Zanasj', '1', 9.6055, 0] 
+
+['Elpis', '138', '49', 'A', '1000', '-1', 'Aru', '4', 'Wonder Woman Reloaded', '324', '55', 'A', '1000', '-1', 'Loganir', '1', 0.848, 1] 
+
+['Android 18', '357', '50', 'B', '1000', '-1', 'Stig87', '1', 'Ogitafanada', '125', '14', 'B', '2000', '-1', 'Man', '3', 42.2364, 0] 
+
+['Lump', '19', '5', 'B', '1000', '-1', 'Weakfoggy', '3', 'Lilin', '103', '36', 'B', '1000', '-1', 'Ipushiron', '3', 0.0569, 1] 
+
+['Tarantula', '199', '42', 'B', '1000', '-1', 'Cyberbots', '3', 'Minotaur', '228', '32', 'B', '2000', '-1', 'Dxwho', '4', 1.3327, 1] 
+
+['Yui_kutuna EX', '249', '51', 'A', '1000', '-1', 'Zsm', '4', 'Fluttershy', '32', '78', 'A', '1060', '-1', 'Moku', '1', 0.1612, 1] 
+
+['Devil_daigo EX', '306', '52', 'A', '1300', '-1', 'H', '1', 'Raphael 0d', '265', '41', 'A', '1000', '-1', '(^o^)', '1', 7.6833, 0] 
+
+['Babidi z2', '61', '28', 'B', '1000', '-1', 'Balthazar, daeron & xgargoyle', '3', 'Nimuge president', '181', '42', 'B', '2000', '-1', 'Tokei', '4', 0.4093, 1] 
+
+['Son goku EX3', '239', '60', 'A', '1000', '-1', 'Choujin', '4', 'Kyoko_typea', '307', '39', 'A', '950', '-1', 'Sekirei', '2', 15.6134, 0] 
+
+['Demitri EX3', '253', '57', 'S', '1200', '-1', 'Youngkirei', '2', 'Lisa lisa', '158', '28', 'S', '1008', '-1', 'Heal the world', '3', 6.7728, 0] 
+
+['Kyoko_typey', '278', '55', 'S', '1000', '-1', 'Yokurei', '3', 'Yukiko amagi', '27', '52', 'S', '1510', '-1', 'Son of aura', '3', 1.6031, 1] 
+
+['P-silver', '302', '82', 'S', '1000', '-1', 'Saurer', '1', 'Polon', '312', '81', 'S', '1500', '-1', 'Googoo64', '3', 1.5285, 1] 
+
+['Another blood k', '243', '61', 'A', '750', '-1', 'Akagik', '2', 'Zebura', '269', '41', 'A', '1000', '-1', 'Haguremono', '3', 5.7381, 1] 
+
+['Mtguile', '316', '35', 'S', '1000', '-1', 'Kmym', '2', 'Maccho', '114', '51', 'S', '1000', '-1', 'Taichitanukida', '2', 2.2468, 0] 
+
+['Gallon EX2', '282', '38', 'S', '1000', '-1', 'Moku', '4', 'Omega tiger woods', '369', '56', 'S', '1160', '-1', 'Most mysterious', '4', 0.1577, 0] 
+
+['Regalo', '98', '67', 'A', '1000', '-1', 'David demianoff', '1', 'D Chun-li', '332', '57', 'A', '1000', '-1', 'Big eli king', '3', 5.5543, 1] 
+
+['Hwa jai xiii', '72', '65', 'B', '1000', '-1', 'Ahuron', '3', 'Eslash', '105', '22', 'B', '1200', '-1', 'Keioh', '2', 11.6739, 0] 
+
+['Tear', '272', '61', 'S', '1000', '-1', 'Fukin-otou', '3', 'Venomu', '161', '66', 'S', '1000', '-1', 'Unkoman', '4', 0.2768, 1] 
+
+['Dan NGPC', '129', '23', 'B', '1000', '-1', 'N64mario', '1', 'Vixen', '227', '22', 'B', '2000', '-1', 'Trexrel and yin', '4', 0.4538, 1] 
+
+['Mvc2 cyclops', '223', '68', 'A', '1000', '-1', 'Cyclops', '4', 'Yue CC', '292', '49', 'A', '900', '-1', 'Seravy', '4', 7.4468, 0] 
+
+['Mekazawa-sama', '88', '24', 'S', '1200', '-1', 'Minoo', '1', 'China kohaku', '316', '84', 'S', '1000', '-1', 'Incurable', '1', 0.0097, 1] 
+
+['Ryu hell', '168', '59', 'B', '1000', '-1', 'Cecil', '2', 'D4 meirin', '82', '76', 'B', '1000', '-1', 'Furikake (air ai)', '2', 0.2142, 0] 
+
+['Bunny marry', '32', '47', 'A', '1000', '-1', 'Ns', '4', 'Ibuki-toranoo', '93', '47', 'A', '1000', '-1', 'First lt smith', '1', 0.8111, 1] 
+
+['Master krauser', '333', '41', 'A', '1000', '-1', 'Abuhachi', '3', 'Melusine', '276', '48', 'A', '1000', '-1', '5667', '1', 8.6294, 0] 
+
+['Aty', '221', '51', 'A', '1000', '-1', 'Act02', '4', 'Cornflakes sagat', '117', '44', 'A', '1028', '-1', 'Master gouken', '1', 0.3726, 1] 
+
+['Mokou fujiwara', '262', '42', 'A', '1010', '-1', 'Hm', '1', 'Mariabell armitage', '271', '56', 'A', '1000', '-1', 'Sylphyne', '3', 0.2923, 1] 
+
+['Mao wp-r', '130', '52', 'A', '1000', '-1', 'Akkin', '3', 'Yusha', '274', '53', 'A', '1000', '-1', 'Cabocha', '2', 0.7514, 1] 
+
+['Zenia valov', '189', '71', 'S', '1200', '-1', 'X}u[', '1', 'Ayu&misuzu&mizuka', '275', '63', 'S', '1500', '-1', 'Rekku', '3', 5.8471, 1] 
+
+['Crazy cook', '145', '49', 'A', '1000', '-1', 'Ryu1sou', '1', 'Egith', '215', '43', 'A', '1000', '-1', 'Mass', '2', 1.169, 0] 
+
+['Yagumo og', '74', '47', 'A', '941', '-1', 'Ohgaki', '4', 'Jonathan asb', '110', '45', 'A', '1000', '-1', 'Amarimono', '2', 5.9401, 1] 
+
+['Nise gosei', '25', '56', 'A', '1000', '-1', '6idlryz1ym', '1', 'Ultimate cell', '80', '35', 'A', '1000', '-1', 'Merufimu', '1', 6.4627, 0] 
+
+['Seven', '280', '64', 'S', '1000', '-1', 'Seven', '2', 'Team ash', '102', '58', 'S', '1000', '-1', 'Minami', '1', 7.5093, 0] 
+
+['Amiba EX', '352', '59', 'S', '1000', '-1', 'Drowin hokuto', '4', 'Gogeta mvc', '270', '73', 'S', '1000', '-1', 'Supermystery', '4', 0.7319, 0] 
+
+['Roza', '313', '48', 'A', '1100', '-1', 'Ns', '2', 'Shadow2', '21', '29', 'A', '1000', '-1', 'Aokmaniac13 - edit:internetcult', '3', 13.2613, 0] 
+
+['Anubis polnareff', '112', '37', 'S', '1001', '-1', 'Warusaki3', '3', 'H-duolon', '475', '60', 'S', '1300', '-1', 'Dls', '4', 0.3022, 0] 
+
+['Jackal', '247', '60', 'B', '1000', '-1', 'Cyberbots', '3', 'Kiddy kong', '62', '31', 'B', '1000', '-1', 'A.t', '1', 6.9252, 0] 
+
+['Duester', '87', '48', 'A', '1000', '-1', 'Lifeend', '1', 'Dabura EX3', '208', '43', 'A', '1000', '-1', 'Stig87', '2', 0.4763, 0] 
+
+['Takaragiko', '58', '62', 'A', '1000', '-1', 'Donkou', '1', 'Cci xiangfei', '213', '40', 'A', '1000', '-1', 'David demianoff', '1', 2.076, 0] 
+
+['Duna', '146', '46', 'A', '1000', '-1', 'Hetyo', '1', 'Monk EX3', '210', '30', 'A', '1000', '-1', 'Kishio', '1', 2.7336, 0] 
+
+['Barasuisyo', '25', '60', 'A', '1000', '-1', 'Drowin3', '1', 'Yanpeko na hibikisan', '263', '47', 'A', '1000', '-1', '1%', '1', 0.8978, 1] 
+
+['Wulong q', '122', '76', 'A', '1000', '-1', 'Seki-rou', '1', 'Hiryu', '307', '55', 'A', '1000', '-1', 'Mass', '1', 2.2391, 0] 
+
+['Victor ortega', '333', '57', 'A', '1150', '-1', '(^o^)', '1', 'K-failurer', '33', '61', 'A', '1000', '-1', 'Sorenari', '1', 1.2161, 1] 
+
+['Ushio', '280', '55', 'A', '1000', '-1', 'Cabocha', '1', 'Fefnir', '99', '33', 'A', '1000', '-1', 'Masukenpu-kun', '1', 2.1594, 0] 
+
+['Serio', '252', '49', 'A', '1000', '-1', 'Maruta', '1', 'Lilith jjba', '29', '55', 'A', '900', '-1', 'Yamori x', '1', 0.6491, 1] 
+
+['Alpha candy', '198', '30', 'A', '1000', '-1', '119way', '1', 'Jyuzumaru', '307', '50', 'A', '1000', '-1', 'Ikaruga', '1', 0.1432, 1] 
+
+['Takaragiko', '59', '63', 'A', '1000', '-1', 'Donkou', '1', 'Duna', '147', '46', 'A', '1000', '-1', 'Hetyo', '1', 0.773, 1] 
+
+['Yanpeko na hibikisan', '264', '47', 'A', '1000', '-1', '1%', '1', 'Wulong q', '123', '76', 'A', '1000', '-1', 'Seki-rou', '1', 0.1929, 1] 
+
+['K-failurer', '34', '62', 'A', '1000', '-1', 'Sorenari', '1', 'Ushio', '281', '55', 'A', '1000', '-1', 'Cabocha', '1', 1.4643, 1] 
+
+['Lilith jjba', '30', '57', 'A', '900', '-1', 'Yamori x', '1', 'Jyuzumaru', '308', '50', 'A', '1000', '-1', 'Ikaruga', '1', 1.9307, 0] 
+
+['Duna', '148', '47', 'A', '1000', '-1', 'Hetyo', '1', 'Wulong q', '124', '77', 'A', '1000', '-1', 'Seki-rou', '1', 0.2507, 0] 
+
+['Ushio', '282', '55', 'A', '1000', '-1', 'Cabocha', '1', 'Lilith jjba', '31', '58', 'A', '900', '-1', 'Yamori x', '1', 0.2192, 1] 
+
+['Duna', '149', '47', 'A', '1000', '-1', 'Hetyo', '1', 'Lilith jjba', '31', '58', 'A', '900', '-1', 'Yamori x', '1', 0.1861, 0] 
+
+['Terminator orochi / Regalo', '100 / 99', '39 / 67', 'S / A', '1000 / 1000', '-1 / -1', 'Jor8a (edited) elecbyte (made) / David demianoff', '8 / 8', 'Iari', '325', '46', 'S', '1500', '1500', 'Pre-to', '1', 1.2521, 0] 
+
+['Terumi', '312', '52', 'A', '1000', '3000', 'Ns', '1', 'Jackie Drunken Fist', '281', '39', 'A', '1000', '-1', 'Mass', '2', 0.9422, 1] 
+
+['El presidente / Nappa', '40 / 54', '78 / 31', 'X / P', '6500 / 1500', '-1 / -1', 'Sfg / null', '1 / 1', 'Silver luigi ver.1.0 / Main', '26 / 22', '42 / 73', 'X / X', '1000 / 1000', '-1 / -1', 'Supermario193281 / 68', '1 / 1', 1.2945, 0] 
+
+['Runaway', '5', '80', 'X', '1000', '-1', 'Flowrallia', '1', 'Ufo', '183', '57', 'X', '1000', '-1', 'Googoo64', '6', 0.123, 0] 
+
+['Evil miopinja / Dirty fat', '74 / 95', '53 / 58', 'A / A', '1000 / 1000', '-1 / -1', 'Ngi (5%off ai) / Ngi (5%off ai)', '1 / 1', 'Death ogre', '397', '46', 'S', '1100', '-1', 'null', '1', 1.368, 0] 
+
+['Bebum ryo / Jackie Drunken Fist', '333 / 281', '48 / 39', 'S / A', '1300 / 1000', '3000 / -1', 'Daimonmau / Mass', '1 / 1', 'Ghetto Warmachine 420 / Gardener kurama', '379 / 122', '50 / 60', 'A / A', '1420 / 1000', '3000 / -1', 'One winged angel / melvanainchains + the_none / Pyrovivi (edited by kestel)', '1 / 1', 4.599, 1] 
+
+['Myon / Tenko-abab', '66 / 276', '3 / 59', 'P / A', '1000 / 1000', '-1 / -1', 'Kohaku / Suigin', '1 / 2', 'Extramyon / Zilva_tenshi', '106 / 54', '77 / 56', 'X / X', '1000 / 3000', '-1 / -1', 'Amaiba / Soruzin', '1 / 1', 0.0002, 1] 
+
+['Cdimario / New age king', '15 / 290', '7 / 46', 'P / A', '1000 / 500', '-1 / -1', 'Smeagol14 / Quetzalcoatl_88', '6 / 10', 'Alvin the chipmunk / Bane', '156 / 278', '63 / 37', 'B / B', '1000 / 1000', '-1 / 3000', 'Xgales / Jmaxximus/alexziq', '10 / 7', 3.7972, 0] 
+
+['D-rugal EX3 / Dormammu-r', '241 / 262', '49 / 69', 'S / S', '1000 / 1000', '-1 / 5000', 'Ahuron / Ahuron', '1 / 1', 'Sigfried doble de alfa / Duke nukem', '24 / 252', '67 / 40', 'A / B', '1000 / 1280', '-1 / -1', 'Aqualudo et pegasuseb saint seiya alliance team / T.o.p.s', '1 / 1', 3.0438, 1] 
+
+['Get in the robot you idiot / Get in the robot you idiot', '252 / 252', '49 / 49', 'S / S', '1000 / 1000', '500 / 500', 'Hsr / Hsr', '12 / 1', 'Twilight sparkle / Applejack m', '256 / 175', '61 / 47', 'A / S', '1300 / 1420', '1000 / -1', 'Moku / Moku', '1 / 1', 140.8929, 0] 
+
+['Sengoku manjimaru / Sengoku manjimaru', '35 / 35', '83 / 83', 'A / A', '1000 / 1000', '-1 / -1', 'Iccha / Iccha', '12 / 11', 'Youmu konpaku', '398', '57', 'S', '2000', '5000', 'Seravy', '1', 1.4587, 0] 
+
+['Beavis EX3 / Beavis', '157 / 74', '57 / 24', 'B / P', '1000 / 1000', '-1 / -1', 'The_none / Aperson98', '4 / 2', 'Butthead / Butt-head', '78 / 213', '58 / 33', 'B / B', '1000 / 700', '-1 / -1', 'The_none / Godebal', '4 / 9', 1.2838, 1] 
+
+['Bokosuka wars / Gaogaigar: the king of braves', '607 / 84', '47 / 62', 'A / S', '50 / 1000', '-1 / -1', 'Ahuron / Nani(type1)', '12 / 12', 'Wave ryu / Sanic boom', '36 / 331', '64 / 73', 'X / S', '1000 / 1000', '-1 / -1', 'Buti / Ikaruga', '1 / 1', 0.3352, 1] 
+
+["Zangiefs' / Zangiefhd", '177 / 138', '68 / 65', 'S / A', '1020 / 1080', '-1 / -1', 'Masa / Or23', '4 / 4', 'Alien queen / Farmer', '554 / 16', '48 / 0', 'S / B', '1500 / 1000', '-1 / -1', 'Hsr / Team z2', '12 / 12', 2.1912, 0] 
+
+['Mike tyson', '510', '71', 'S', '1000', '-1', 'Bane84', '10', 'Torozo', '264', '56', 'NEW', '2000', '-1', 'Kozeni', '12', 0.91, 0] 
+
+['Homura & friends / Ayu&misuzu&mizuka', '293 / 276', '82 / 63', 'S / S', '900 / 1500', '-1 / -1', 'Cyclops beam / Rekku', '1 / 1', 'Get in the robot you idiot / Get in the robot you idiot', '252 / 252', '49 / 49', 'S / S', '1000 / 1000', '500 / 500', 'Hsr / Hsr', '12 / 12', 0.5258, 0] 
+
+[0] 
+
+['Supreme veku / Supreme veku', '21 / 21', '38 / 38', 'B / B', '1000 / 1000', '-1 / -1', 'Pancaketurtle / Pancaketurtle', '12 / 12', 'Cute syakoya / Cute syakoya', '34 / 34', '68 / 68', 'S / S', '1000 / 1000', '-1 / -1', 'Ameri / Ameri', '12 / 12', 0.6692, 1] 
+
+['Nmori_yagami', '191', '75', 'S', '1200', '-1', 'Adamlexus, fixed by superoverlord meep', '1', 'Homura akemi / Homura akemi', '21 / 21', '62 / 62', 'B / B', '900 / 900', '-1 / -1', 'Kohaku / Kohaku', '12 / 12', 2.7129, 1] 
+
+['Astranagant EX7 / Astranagant EX7', '0 / 0', '0 / 0', 'X / X', '40000 / 40000', '-1 / -1', 'Papitto / Papitto', '12 / 12', "Rugal's panther zoo / Rugal's panther zoo", '4 / 4', '100 / 100', 'X / X', '1000 / 1000', '-1 / -1', '17th_star / 17th_star', '1 / 1', 0.5867, 0] 
+
+['Soccer len / Soccer len', '16 / 16', '50 / 50', 'NEW / NEW', '1000 / 1000', '-1 / -1', 'Elecbyte / Elecbyte', '11 / 10', 'Private / Private', '256 / 256', '61 / 61', 'B / B', '1000 / 1000', '-1 / -1', 'Hsr / Hsr', '2 / 1', 2.9546, 0] 
+
+['Tony won / Ron max', '263 / 312', '47 / 40', 'A / B', '1400 / 1100', '-1 / -1', 'Mitai dake / Mitai dake', '4 / 2', 'Blob / Fat joker', '412 / 16', '46 / 38', 'A / B', '1520 / 1000', '1000 / -1', 'Mythsoftaboo & magus / Ngi', '8 / 8', 1.4726, 0] 
+
+['Chris_gb / Kanon di jajajajaja', '337 / 23', '49 / 35', 'S / A', '1180 / 1000', '500 / -1', 'Pre-to / Tonyadv', '1 / 1', 'Master mecha sonic / Super sayajin 4', '310 / 334', '59 / 43', 'S / S', '1800 / 1600', '-1 / 1500', 'Xthedarknessoflightx / Oz', '1 / 1', 0.2018, 1] 
+
+['Genocide sans', '8', '63', 'X', '2', '-1', 'Stg', '1', 'Berserk', '254', '80', 'X', '2500', '-1', 'Goukasoshina_serikabase', '1', 5.7363, 0] 
+
+['Scharlachrot-a', '170', '71', 'S', '1000', '1000', 'Aki (yuki ai)', '6', 'Johnny(ac)', '185', '84', 'S', '1260', '-1', 'Muteki (yuki ai)', '9', 1.6298, 1] 
+
+['Mami EX', '327', '68', 'S', '1000', '-1', 'Geros', '1', 'Izumi konata', '300', '82', 'S', '1100', '-1', 'Yogoreneko', '1', 0.9017, 1] 
+
+['Piccolo / Androide 17', '306 / 56', '50 / 32', 'B / B', '1000 / 1000', '1000 / -1', 'Choujin / Chrono_strife and neocide', '1 / 1', 'Imperfect cell', '288', '43', 'A', '2000', '3000', 'Sawwen', '7', 1.2339, 1] 
+
+['Rare akuma / Rare akuma', '828 / 828', '78 / 78', 'X / X', '2000 / 2000', '9000 / 9000', 'Phantom.of.the.server / Phantom.of.the.server', '4 / 9', 'El presidente / 1.0', '40 / 64', '78 / 19', 'X / P', '6500 / 1000', '-1 / -1', 'Sfg / Woman', '5 / 11', 1.1033, 0] 
+
+['Main Man Knuckles', '339', '39', 'A', '1987', '3000', 'Veanko', '1', 'Akiha vermillion', '74', '28', 'A', '1000', '-1', 'Sion_love_nameless', '1', 5.4624, 0] 
+
+['A perfect soldier', '138', '84', 'S', '1000', '-1', 'Adamskie', '7', 'Faust(ac)', '334', '65', 'S', '1000', '-1', 'Muteki', '11', 1.5538, 1] 
+
+['Shiki_sv', '35', '89', 'S', '1380', '3000', 'Sui', '1', 'Yujiro-hanma', '466', '73', 'S', '1500', '-1', 'Tokage', '1', 1.0888, 0] 
+
+['Washizu iwao / Washizu iwao', '34 / 34', '74 / 74', 'S / S', '1000 / 1000', '-1 / -1', 'Kouzyoutyou2621 / Kouzyoutyou2621', '1 / 1', 'Meth Blue Ranger / Meth Blue Ranger', '161 / 161', '32 / 32', 'B / B', '2000 / 2000', '-1 / -1', 'Jok / Jok', '1 / 1', 9.8711, 0] 
+
+['Duke nukem / Sigfried doble de alfa', '252 / 24', '40 / 67', 'B / A', '1280 / 1000', '-1 / -1', 'T.o.p.s / Aqualudo et pegasuseb saint seiya alliance team', '1 / 1', 'D-rugal EX3 / Dormammu-r', '241 / 262', '49 / 69', 'S / S', '1000 / 1000', '-1 / 5000', 'Ahuron / Ahuron', '11 / 11', 0.339, 1] 
+
+['Ac-zero', '4', '50', 'X', '2000', '-1', 'Piyoblackbarn', '1', 'Tensi', '382', '52', 'S', '1000', '-1', 'Pre-to', '12', 1.0604, 1] 
+
+['Homer simpson / Peter griffin mvc', '219 / 20', '47 / 35', 'B / B', '1200 / 1000', '4000 / -1', 'Warner el tochix / Warner/judgespear/gigabowserx/luigi-master', '1 / 1', 'Herb', '312', '48', 'S', '1050', '-1', 'Ankokunaitou', '1', 2.0818, 0] 
+
+['Farmer / Farmer', '16 / 16', '0 / 0', 'B / B', '1000 / 1000', '-1 / -1', 'Team z2 / Team z2', '1 / 2', 'Michael', '364', '53', 'S', '500', '-1', 'Googoo64', '1', 0.0817, 1] 
+
+['Metalslime', '97', '63', 'X', '545', '-1', 'Fukin-otou', '12', 'Mg_snorlax / Kraidgief', '112 / 366', '46 / 66', 'S / S', '1500 / 4500', '-1 / 2000', 'Migo / Fhqwhgads7', '12 / 12', 0.0915, 1] 
+
+['Kenny mccormick / Eric cartman', '28 / 90', '18 / 36', 'P / P', '1000 / 1000', '-1 / -1', 'Pokemonboy7051 / Pokemonboy7051', '1 / 1', 'Lola bunny / Syakoya', '37 / 44', '19 / 16', 'P / P', '1000 / 1000', '-1 / -1', 'Beanfan112 / Ameri', '1 / 1', 0.6689, 1] 
+
+['Astranagant EX7 / Atomic dust amiba', '0 / 164', '0 / 69', 'X / X', '40000 / 1020', '-1 / -1', 'Papitto / Otto', '5 / 10', 'Athena type_h / Atomos', '96 / 192', '39 / 60', 'X / X', '1000 / 19997', '3000 / -1', 'Ahuron / Ali', '4 / 12', 2.7978, 0] 
+
+['Harry james potter / Black magician girl', '18 / 283', '6 / 63', 'P / A', '1000 / 1040', '-1 / 2000', 'Exclamation_question / Sankiti', '5 / 8', 'Marufoi / Dorako marufoi', '44 / 28', '5 / 29', 'B / A', '1000 / 1000', '-1 / -1', 'Mas2 / Mas2', '8 / 12', 0.871, 0] 
+
+['Basketball len', '88', '56', 'A', '1000', '-1', 'Elecbyte', '4', 'Aioria de leo', '182', '47', 'A', '1500', '-1', '', '3', 3.4605, 0] 
+
+['Devilbat-schilt', '272', '53', 'S', '1000', '-1', 'Snowwolf', '4', 'Broli', '486', '75', 'S', '1100', '-1', 'The necromancer', '4', 0.0633, 1] 
+
+['Miduma', '253', '49', 'B', '1000', '-1', 'Kishio', '1', 'Sailor jupiter EX', '206', '39', 'B', '1099', '-1', 'Sakuraka', '1', 2.1392, 1] 
+
+['Kamui', '221', '59', 'A', '1000', '-1', '(^o^)', '1', 'Adelheid EX', '261', '44', 'A', '2405', '-1', 'Chikuchikugonzalez', '2', 3.2748, 0] 
+
+['Munch', '307', '49', 'B', '1000', '-1', 'Man', '1', 'Custom sd luffy', '156', '61', 'B', '1000', '-1', 'Borewood', '2', 3.3223, 1] 
+
+['Terry bogard EX2', '262', '41', 'A', '1000', '-1', 'T-alf', '2', 'Iori rotd', '110', '72', 'A', '1000', '-1', 'Ryo 2005', '4', 0.0924, 1] 
+
+['Sinbat', '68', '54', 'B', '1000', '-1', 'Mitai dake', '4', 'Tuna', '64', '58', 'B', '1000', '-1', 'Masukenpu-kun', '4', 0.5127, 1] 
+
+['Hob-goblin 2009', '29', '38', 'A', '1000', '-1', 'Darktalbain, susanmugen, acey,', '2', 'Roppen heimer EX FF', '287', '58', 'A', '1000', '-1', 'Shimon', '1', 0.1162, 1] 
+
+['Mictlan', '326', '75', 'S', '1000', '-1', 'Muko', '4', 'Krillin EX3', '249', '38', 'S', '1000', '-1', 'Stig87', '3', 38.0283, 0] 
+
+['Dangaioh', '61', '21', 'A', '1000', '-1', 'Mif', '4', 'Shartel', '289', '43', 'A', '1000', '-1', 'Teaf', '1', 0.0358, 1] 
+
+['Ssf2x akuma', '179', '41', 'S', '966', '-1', 'G.d.t', '2', 'Elite zaku', '83', '52', 'S', '1000', '-1', 'Nhk', '4', 2.604, 0] 
+
+['Lunasa', '245', '60', 'A', '1000', '-1', 'Minoo', '1', 'Mizuki EX2', '260', '54', 'A', '1100', '-1', 'Ali', '2', 0.5823, 1] 
+
+['War EX2', '257', '42', 'A', '1000', '-1', 'Kamekaze', '4', 'Gradriel', '86', '47', 'A', '1000', '-1', 'Okan', '1', 0.3189, 1] 
+
+['Kazama sogetsu', '349', '47', 'A', '1000', '-1', 'Ckenni and system id', '4', 'Andy 98', '138', '58', 'A', '1000', '-1', 'Ikaruga', '3', 0.2599, 1] 
+
+['The Colonel', '327', '62', 'A', '2000', '-1', 'Peg', '1', 'Oboromaru', '331', '48', 'A', '950', '-1', 'Ankokunaitou', '2', 4.4497, 1] 
+
+['Mr. x', '144', '29', 'S', '1200', '-1', 'Seanaltly', '2', 'Flawless specter', '35', '94', 'S', '1000', '-1', 'Akakedama', '2', 0.0342, 1] 
+
+['Kensuke kudou', '282', '59', 'A', '1300', '-1', '(^o^)', '3', 'Toguro 30%', '365', '37', 'A', '1050', '-1', 'Kamekaze', '3', 7.6928, 0] 
+
+['A-blackheart', '42', '69', 'A', '1000', '-1', 'Bus', '1', 'Shana', '259', '44', 'A', '1000', '-1', 'Yogoreneko', '3', 9.5601, 0] 
+
+['Jotaro kujo (part 4)', '122', '67', 'A', '1000', '-1', 'Y.y', '1', 'Haruhi suzumiya', '364', '39', 'A', '1000', '-1', 'Choiyer', '1', 3.2975, 0] 
+
+['Rentaro satomi EX7', '19', '26', 'A', '1000', '-1', 'Kohaku', '1', 'Pogo', '291', '53', 'A', '1056', '-1', 'Ankokunaitou', '1', 0.1336, 0] 
+
+['Akashi_kaoru', '322', '53', 'A', '1000', '-1', 'Baggy', '1', 'Bloody', '72', '32', 'A', '1000', '-1', 'Mif', '1', 7.775, 1] 
+
+['Kuroko EX2', '275', '57', 'A', '1000', '-1', 'Gonzo-', '2', 'Iori rotd', '111', '72', 'A', '1000', '-1', 'Ryo 2005', '3', 0.7964, 1] 
+
+['Morilen', '193', '60', 'B', '950', '-1', 'Felicity', '3', 'Slug wanzer', '134', '28', 'B', '2000', '-1', 'Mabskmk', '1', 12.2036, 0] 
+
+['Sppaman', '337', '62', 'A', '1000', '-1', 'Googoo64', '4', 'Divine poison', '118', '27', 'A', '960', '-1', 'Divinewolf', '3', 33.8974, 0] 
+
+['Nagae iku', '316', '60', 'A', '1000', '-1', 'Nns', '2', "Billy 'big bang' blitz", '325', '55', 'A', '1000', '-1', 'Spacemouse', '1', 0.5278, 1] 
+
+['Magaki EX2', '241', '68', 'A', '1000', '-1', 'Jin', '4', 'Corin', '259', '56', 'A', '1111', '-1', 'Sos', '2', 6.3941, 0] 
+
+['Gaoh', '17', '24', 'P', '1000', '-1', 'Ali', '2', 'Rayman', '93', '27', 'P', '1001', '-1', 'null', '2', 0.4773, 1] 
+
+['Mahoko', '98', '45', 'A', '750', '-1', 'Taichi_tanukida', '1', 'Haku-len', '40', '48', 'A', '1091', '-1', 'Showbuyspirit', '3', 0.6705, 1] 
+
+['Knuckles EX3', '210', '68', 'A', '1100', '-1', 'Abab', '1', 'Lio convoy', '284', '37', 'A', '1000', '-1', '(^o^)', '1', 8.7228, 0] 
+
+['Lin EX3', '206', '42', 'A', '1000', '-1', 'Ryo 2005', '1', 'Donald mcdonald', '246', '43', 'A', '1000', '-1', 'Kishio/darkdonald1', '3', 0.6686, 1] 
+
+['Prinny P', '232', '54', 'B', '1200', '-1', 'Stupa', '4', 'Chonshu EX3', '149', '50', 'B', '1000', '-1', 'Aomura', '1', 1.9171, 1] 
+
+['Neji', '265', '29', 'B', '1000', '-1', 'Hyuga', '1', 'The gandhara', '212', '55', 'B', '1000', '-1', '(^o^)', '4', 0.067, 1] 
+
+['Kudo', '23', '74', 'A', '1000', '-1', 'Seapon', '4', 'Shura', '279', '53', 'A', '1000', '-1', 'Gm', '2', 7.1984, 0] 
+
+['Nao EX3', '292', '73', 'S', '1001', '-1', 'Ura(re:)', '3', 'Kamen rider double', '158', '65', 'S', '1500', '-1', 'Nipa3008 & ninefreeman (kofm patch)', '3', 4.9974, 0] 
+
+['Wing', '284', '44', 'A', '1000', '-1', 'Kamekaze', '4', 'Kamen rider ex-aid', '24', '71', 'A', '1000', '-1', 'Minatomaru', '4', 0.0673, 1] 
+
+['Kirby sdx', '85', '61', 'A', '1000', '-1', 'Bird', '2', 'Mayor haggar', '134', '50', 'A', '1100', '-1', 'Seanaltly', '2', 2.2288, 1] 
+
+['Nazrin', '475', '57', 'A', '1000', '-1', '.dat', '2', 'Makoto(*zenkai*)', '236', '59', 'A', '1000', '-1', 'Nhk', '1', 0.8297, 1] 
+
+['Hiedano akyu', '365', '45', 'A', '1000', '-1', 'Neneco', '4', 'Titan the great', '323', '50', 'A', '1200', '-1', '(^o^)', '1', 0.5638, 0] 
+
+['Classic batman', '226', '57', 'B', '1000', '-1', 'Cybaster', '4', 'Yakui san', '87', '6', 'B', '1200', '-1', 'Woman', '4', 120.9768, 0] 
+
+['Sailor chibi moon', '285', '44', 'A', '1500', '-1', 'Kamekaze', '2', 'Ironfist ryu', '198', '70', 'A', '1000', '-1', 'Ahuron', '1', 0.097, 1] 
+
+['Rozalin', '96', '48', 'S', '1300', '-1', 'Takosuke', '4', 'Baragon', '293', '55', 'S', '1500', '-1', 'Muu', '3', 0.6178, 1] 
+
+['Charlotte s', '146', '57', 'S', '1000', '-1', 'Masquer', '2', 'Game master', '111', '73', 'S', '1000', '-1', 'Kuon', '2', 0.1394, 0] 
+
+['Dark Slayer', '364', '48', 'S', '1000', '-1', 'Muteki', '3', 'Destoroyah_ex', '312', '54', 'S', '800', '-1', 'Tokuiten & snowwolf', '4', 0.4815, 0] 
+
+['Naya tatca nanafe', '113', '36', 'B', '1000', '-1', 'If', '2', 'Idaten', '165', '52', 'B', '1000', '-1', 'Mouser', '1', 0.3387, 1] 
+
+['Guy mk ii', '213', '41', 'A', '950', '-1', 'Phantom.of.the.server', '2', 'Kevin rian', '113', '50', 'A', '1000', '-1', 'Nhk (dhq ai)', '3', 0.6059, 1] 
+
+['Sp-athena', '90', '77', 'A', '1500', '-1', 'Jfct555', '3', 'Athena945', '188', '52', 'A', '1000', '-1', 'Sekirei', '4', 6.5476, 0] 
+
+[1]
+['MB-02', '457', '58', 'S', '1000', '-1', 'Sodonhid, o ilusionista and ethan lives', '1', 'Goku', '514', '52', 'S', '1500', '-1', 'Xande toskomics & ribeiro (ver.2 by kram3r)', '1', 1.7062, 1]
+['Hulk', '778', '67', 'S', '1200', '-1', 'Mgmurrow', '1', 'Silversamurai', '481', '52', 'S', '1000', '-1', 'Silversamurai', '1', 2.1222, 0]
+[1]
+['Cell mvc', '19', '42', 'B', '1000', '-1', 'Kenshiro99', '2', 'Ritsu tainaka', '22', '45', 'B', '1000', '-1', 'Dizzy', '3', 1.731, 1]
+['Kiddy kong', '63', '30', 'B', '1000', '-1', 'A.t', '3', 'Aegis', '21', '52', 'B', '1000', '-1', 'Hitachi', '4', 0.2704, 1]
+['Aussie kano', '21', '48', 'A', '1000', '-1', 'Binho', '2', 'Ss6 aisya', '214', '58', 'A', '1000', '-1', 'Suigin', '1', 0.3273, 0]
+['Sf2 sean', '57', '44', 'B', '1100', '-1', 'Mugenmonkey', '3', 'Zrygunte', '55', '35', 'B', '2000', '-1', 'Motomachi', '3', 0.825, 1]
+['Evil homer', '287', '58', 'B', '1060', '-1', 'Warner & reu', '2', 'Majin vegeta z2', '74', '20', 'B', '1000', '-1', 'Balthazar, cybaster & xgargoyle', '1', 6.0614, 0]
+['Hoppy', '144', '38', 'B', '1000', '-1', 'Lord sinistro', '4', 'Cloud (3d)', '181', '35', 'B', '1000', '-1', 'Anmc', '1', 4.9995, 0]
+['Dante2', '316', '54', 'A', '1000', '-1', 'Bugya', '3', 'Bobby ologun', '195', '54', 'A', '1000', '-1', 'Neat unsou', '2', 3.1009, 0]
+['Ossan', '358', '63', 'A', '1200', '-1', 'Dadio', '4', 'Meiya', '334', '50', 'A', '1000', '-1', 'Dadio&neo', '1', 2.6699, 0]
+['Rio hinayama', '257', '41', 'A', '1100', '-1', 'Tokinokuni-kei', '1', 'Dark cornian', '298', '56', 'A', '1020', '-1', 'Dark ruler', '4', 0.2425, 1]
+['Joker EX3', '190', '58', 'A', '1000', '-1', '1%', '3', 'Mono freaks_n', '144', '49', 'A', '1000', '-1', 'Hm', '1', 1.9816, 0]
+['Angus', '402', '52', 'A', '1120', '-1', 'The_none', '2', 'Vritra', '191', '55', 'A', '1000', '-1', 'Ikaruga', '4', 0.3286, 1]
+['Super saiyan god kfm', '33', '45', 'A', '1000', '-1', 'Elecbyte', '2', 'Sheep the royal', '299', '56', 'A', '1150', '-1', '(^o^)', '2', 0.4883, 1]
+['Mike Haggar', '224', '42', 'B', '1000', '-1', 'Acey', '4', 'Rimle', '244', '30', 'B', '1000', '-1', 'Rainman', '2', 5.2778, 0]
+['Ramon EX3', '212', '49', 'A', '1000', '-1', 'Tin', '2', 'Dark chun-li', '269', '36', 'A', '1000', '-1', 'Big eli king', '4', 4.4581, 0]
+[1] 
+
+['Lancer', '281', '58', 'A', '1000', '-1', 'Ouchi', '1', 'Meld', '93', '59', 'A', '1000', '-1', 'Zenjidoh', '1', 1.2647, 0] 
+
+['Hybrid', '221', '57', 'A', '900', '-1', 'Cycbeam', '1', 'Chaoz_gf', '284', '49', 'A', '1000', '-1', 'Ngi', '1', 1.1863, 0] 
+
+['Ohga', '340', '67', 'S', '1300', '-1', '(^o^)', '1', 'Heidern 98', '22', '36', 'S', '1000', '-1', 'Ikaruga', '2', 11.7195, 0] 
+
+['Electra 2097', '11', '36', 'B', '1000', '-1', 'Aokmaniac13 - edit:internetcult', '2', 'Zoma ga', '169', '34', 'B', '1000', '-1', 'Skiff', '3', 1.3794, 0] 
+
+['Mezu', '30', '47', 'P', '1000', '-1', 'Lord sinistro', '1', 'Chonshu', '51', '41', 'P', '1000', '-1', 'David demianoff', '2', 2.5772, 0] 
+
+['Gloria EX3', '220', '44', 'A', '1000', '-1', 'Mass', '3', 'Neo dark mai', '38', '84', 'A', '1220', '-1', 'Shadow_ninja22', '1', 0.0541, 1] 
+
+['Young_rugal', '292', '47', 'S', '1000', '-1', 'Baikunori', '3', 'Ikadevil', '289', '75', 'S', '1000', '-1', 'Muu', '2', 0.0401, 1] 
+
+['Kao', '24', '33', 'A', '1500', '-1', 'Masukenpu-kun', '4', 'Ness', '361', '38', 'A', '1000', '-1', 'K.y-shanxi', '3', 0.2204, 1] 
+
+['Spin youmu EX', '357', '75', 'S', '1560', '-1', 'Otto', '2', 'Yuugi mb', '141', '80', 'S', '1200', '-1', 'Shin', '3', 1.4291, 0] 
+
+['Shaq fu EX3', '155', '52', 'B', '1000', '-1', 'The_none', '2', 'Hammer bro', '132', '38', 'B', '1000', '-1', 'Kingpepe', '4', 10.3275, 0] 
+
+['Ohayato', '19', '26', 'B', '1000', '-1', 'Ryun', '4', 'Asuka kazama', '66', '20', 'B', '1000', '-1', 'Chuchoryu', '4', 3.8993, 0] 
+
+['Ossan', '359', '63', 'A', '1200', '-1', 'Dadio', '3', 'Blodia-k', '259', '49', 'A', '1000', '-1', 'Kuron', '1', 11.8175, 0] 
+
+['Yuri_96', '251', '44', 'S', '2000', '-1', 'Flam', '4', 'Deluxe lin', '288', '48', 'S', '1000', '-1', 'Crosscat', '1', 1.9002, 1] 
+
+['Jupiter', '247', '45', 'B', '1099', '-1', 'Sakuraka', '2', 'Korean papyrus', '19', '21', 'B', '1100', '-1', '1850', '2', 1.2146, 0] 
+
+['Marona', '219', '50', 'A', '1080', '-1', 'Stupa', '2', 'Beryl benito', '81', '42', 'A', '1000', '-1', 'Bara', '4', 0.8131, 1] 
+
+['Fukumen senshi', '312', '53', 'A', '950', '-1', 'Kamekaze', '4', 'Arrange_godzilla', '299', '55', 'A', '1000', '-1', 'Tokuiten', '4', 0.4006, 1] 
+
+['Mo-mo-dainamaitu EX3', '170', '45', 'B', '1000', '-1', '?hlr', '3', 'Kusanagi EX3', '172', '53', 'B', '1000', '-1', 'David demianoff', '2', 1.184, 0] 
+
+['Raiden EX2', '218', '52', 'A', '1250', '-1', 'Omegapsycho-mk', '2', 'Andy_ff3rb', '282', '58', 'A', '1000', '-1', 'Sekirei', '4', 0.591, 1] 
+
+['The mighty thor', '26', '38', 'S', '1000', '-1', 'Loganir & blackdragon', '4', "Dio's evil incarnation", '121', '66', 'S', '1120', '-1', 'Orochi herman', '3', 0.0491, 1] 
+
+['Nameless', '336', '43', 'A', '1000', '-1', 'Ahuron', '2', 'Biscuit-oliva', '299', '43', 'A', '1300', '-1', 'Tokage', '4', 1.8482, 0] 
+
+['Dr. fessenden', '31', '55', 'A', '1000', '-1', 'Maniac', '4', 'Tora shou', '252', '64', 'A', '1000', '-1', 'Minoo and spacemouse', '1', 0.5404, 1] 
+
+['Gonzales', '495', '81', 'S', '1000', '-1', 'Dkn', '2', 'Mech.hisui 404', '145', '46', 'S', '1000', '-1', 'Sennou-room', '4', 17.7437, 0] 
+
+['Uzuki shimamura', '140', '49', 'S', '1000', '-1', 'Nani(type1)', '2', 'Suika_pon', '189', '83', 'S', '1100', '-1', 'Tamago kanten', '3', 0.0205, 1] 
+
+['Dark chun-li', '270', '36', 'A', '1000', '-1', 'Big eli king', '2', 'Chun-li jj', '312', '47', 'A', '1000', '-1', 'Beterhans', '3', 0.2232, 1] 
+
+['Imperfect cell', '288', '43', 'A', '2000', '-1', 'Sawwen', '3', 'Washizuka', '277', '62', 'A', '1000', '-1', 'Ikaruga', '4', 0.4269, 1] 
+
+['Tusk ki2', '32', '50', 'A', '1100', '-1', 'Shift b is b', '3', 'Nagae iku', '317', '60', 'A', '1000', '-1', 'Nns', '4', 0.4584, 1] 
+
+['Kunagi-f.o', '292', '51', 'S', '1000', '-1', 'Kayui uma', '3', 'Cursor', '362', '45', 'S', '1000', '-1', 'N-mario', '1', 1.3064, 1] 
+
+['Kyoudou senna', '306', '48', 'A', '1000', '-1', 'Songfu', '1', 'Donovan', '438', '62', 'A', '1000', '-1', 'Donovan', '3', 1.1155, 1] 
+
+['Washizuka xi', '196', '34', 'A', '1000', '-1', 'Ikaruga', '3', 'Heavyarmscustom', '304', '57', 'A', '1000', '-1', 'Z.a.i.', '3', 0.1886, 0] 
+
+['Steed', '107', '26', 'S', '1000', '-1', 'Lifeend', '2', 'Jean_pau', '295', '52', 'S', '1000', '-1', '(^o^)', '3', 0.3108, 1] 
+
+['Carol tea', '134', '65', 'A', '1000', '-1', 'Veanko', '1', 'Troll', '27', '85', 'A', '1000', '-1', 'Ikaruga', '4', 0.4269, 1] 
+
+['Papillon', '221', '50', 'A', '1000', '-1', 'Ouchi', '1', 'Bang', '254', '60', 'A', '1000', '-1', 'Ankokunaitou', '1', 0.7029, 0] 
+
+['Kusanagi xiii', '124', '57', 'A', '1000', '-1', 'Tobikage', '2', 'Miranda', '254', '44', 'A', '1000', '-1', 'Aomura', '2', 2.1203, 0] 
+
+['Jack in dia', '123', '37', 'B', '850', '-1', 'Pullo', '4', 'Wily', '178', '31', 'B', '2000', '-1', 'Manic', '4', 0.6301, 1] 
+
+['Sannomiya_shiho', '324', '48', 'S', '1000', '-1', 'Baggy', '3', 'Nanaya_s', '319', '45', 'S', '1000', '-1', 'Pre-to', '1', 1.618, 0] 
+
+['Cyclops_cota', '300', '63', 'S', '1000', '-1', 'Kaz', '2', 'Final dio', '88', '47', 'S', '1020', '-1', 'Warusaki3', '2', 3.0122, 0] 
+
+['Gameboy', '278', '50', 'S', '1000', '-1', 'Koopakingdom.com', '3', 'Goku ssj3 EX2', '307', '60', 'S', '1350', '-1', 'Choujin +  ultimaetus', '4', 0.6144, 0] 
+
+['Sakura 98', '150', '63', 'B', '1000', '-1', 'Ikaruga', '3', 'Marika yamagata', '20', '5', 'B', '1000', '-1', 'Cwn', '1', 10.0748, 0] 
+
+['Axe pq', '20', '55', 'A', '1000', '-1', 'Ryon', '3', 'Yurung', '209', '60', 'A', '1000', '-1', 'Tukimoon', '3', 0.2513, 1] 
+
+['Nanoha xp', '179', '73', 'X', '1200', '0', 'Finir', '12', 'Dhaos', '65', '34', 'X', '30000', '0', 'Lt', '11', 7.1631, 1] 
+
+['Shishimaru EX', '272', '44', 'A', '1000', '-1', 'Ali', '2', 'Gardener kurama', '122', '60', 'A', '1000', '-1', 'Pyrovivi (edited by kestel)', '4', 0.2035, 1] 
+
+['Minoru_shiraishi', '41', '20', 'B', '1000', '-1', 'Ouchi', '2', 'Zidane', '119', '8', 'B', '1000', '-1', 'Elecbyte', '3', 26.0637, 0] 
+
+['Videl fight money', '355', '66', 'S', '1000', '-1', 'Tomo', '4', 'Jin chonrei', '361', '49', 'S', '1000', '-1', 'Nrf', '4', 2.9258, 1] 
+
+['Magic geese', '135', '49', 'A', '1000', '-1', 'The_none', '3', 'Zangeese', '285', '62', 'A', '1000', '-1', '3ha', '1', 0.9207, 1] 
+
+['Bonegolem', '309', '58', 'S', '1100', '-1', 'Dxwho', '4', 'Nogami_aoi', '348', '36', 'S', '1000', '-1', 'Baggy', '3', 3.2533, 0] 
+
+['Nxc demitri', '50', '40', 'B', '1000', '-1', 'Shimon', '4', 'Furude rika', '173', '69', 'B', '1000', '-1', 'Seravy', '4', 0.0974, 1] 
+
+['Shocker', '296', '47', 'B', '1000', '-1', 'Bigpimp, aa250, arkady', '1', 'Blankagirl', '80', '31', 'B', '1000', '-1', 'Hh', '1', 1.09, 1] 
+
+['Rera EX3', '264', '42', 'S', '1000', '-1', 'Ibukah', '1', 'A perfect soldier', '138', '84', 'S', '1000', '-1', 'Adamskie', '1', 0.0569, 1] 
+
+["D'raven", '278', '54', 'A', '1000', '-1', 'Ihoo1836', '4', 'Ingrid', '256', '39', 'A', '1060', '-1', 'J', '4', 1.312, 0] 
+
+['Jessica', '261', '43', 'S', '1200', '-1', 'Shuu', '3', 'Sa-x', '299', '74', 'S', '1000', '-1', 'Endoedgarjunior', '4', 0.0117, 1] 
+
+['Kaeru', '106', '70', 'X', '1000', '0', 'Kairu', '11', 'Wooly shambler', '13', '85', 'X', '722', '0', 'null', '7', 1.2598, 0] 
+
+['Bonus kun EX2', '190', '54', 'B', '1000', '-1', 'Bad darkness', '1', 'Geese CVS', '218', '52', 'B', '1056', '-1', 'Warusaki3', '4', 0.7396, 1] 
+
+['Mettaton', '24', '63', 'A', '1000', '-1', 'Toby fox', '1', 'Ruputna', '221', '43', 'A', '1000', '-1', 'Z.a.i.', '3', 2.2315, 0] 
+
+['Sharaku', '265', '52', 'S', '1000', '-1', 'Maruhen', '4', 'Ss6 renfa EX2', '291', '38', 'S', '1000', '-1', 'Suigin', '1', 0.824, 1] 
+
+['Small chibi-moon', '87', '70', 'A', '1100', '-1', 'Ryoga and ljh', '1', 'Rin', '305', '49', 'A', '1000', '-1', 'Nanda', '3', 4.9064, 0] 
+
+['Houraisan kaguya', '149', '27', 'A', '1000', '-1', 'Hm', '2', 'Creeper', '376', '41', 'A', '420', '-1', 'Nazrin_no_otto', '1', 0.9755, 1] 
+
+['Nikumaru', '264', '53', 'B', '1000', '-1', 'Googoo64', '1', 'Ten', '254', '37', 'B', '1000', '-1', 'Daraku and alex87', '4', 13.5545, 0] 
+
+['Ash crimson', '205', '65', 'B', '1000', '-1', 'Chazzanova & quickfist', '2', 'Byakuya', '284', '46', 'B', '1000', '-1', 'Bwdyeti', '3', 2.455, 1] 
+
+['Bai-hu EX', '292', '41', 'A', '1000', '-1', '(^o^)', '2', 'Amingo MVC2', '259', '47', 'A', '1000', '-1', 'Kamekaze', '1', 2.9792, 0] 
+
+['Wyler xi ver', '277', '46', 'A', '1000', '-1', 'Chenly2001', '4', 'Kobuta', '250', '66', 'A', '1000', '-1', 'Tanukida_taichi', '3', 0.2278, 1] 
+
+['Ultraman agul', '275', '43', 'A', '1000', '-1', 'Muu', '4', 'Kotone', '302', '55', 'A', '1000', '-1', 'Sankiti', '4', 1.7463, 0] 
+
+['Blue mary', '335', '57', 'A', '1000', '-1', 'Tora', '1', 'Noroko EX3', '202', '39', 'A', '1000', '-1', 'Andres borghi', '1', 2.4946, 1] 
+
+['Masked rider wizard', '31', '23', 'A', '1000', '-1', '?e', '1', 'Rei akof', '29', '66', 'A', '1044', '-1', 'Nekome', '1', 0.329, 1] 
+
+['F-zeryo x', '110', '31', 'A', '1000', '-1', 'Mouser', '1', 'Alucks', '25', '64', 'A', '1000', '-1', 'Supermario193281', '1', 0.3215, 0] 
+
+['Zangeese', '286', '62', 'A', '1000', '-1', '3ha', '1', 'White len EX', '283', '38', 'A', '1000', '-1', 'H&youngkirei&take.k', '1', 1.3756, 1] 
+
+['Daigo hotta', '108', '37', 'A', '1000', '-1', 'Mugen d. luffy&kayui uma', '1', 'Pikopiko', '184', '68', 'A', '1000', '-1', 'Elecbyte', '1', 0.7987, 0] 
+
+['Cursed bishamon', '104', '62', 'A', '1000', '-1', '3ha', '1', 'Deathscythe ao', '107', '64', 'A', '1000', '-1', 'Ao', '1', 0.7696, 1] 
+
+['Lian-d', '41', '73', 'A', '1200', '-1', 'A487561j', '1', 'Vampire burns', '127', '40', 'A', '1000', '-1', 'Aa250', '1', 4.0774, 0] 
+
+['Jonathan asb', '112', '45', 'A', '1000', '-1', 'Amarimono', '1', 'Lf2 - firen', '200', '59', 'A', '1000', '-1', 'Deoxgigas', '1', 0.2394, 1] 
+
+['Noroko EX3', '203', '39', 'A', '1000', '-1', 'Andres borghi', '1', 'Rei akof', '30', '67', 'A', '1044', '-1', 'Nekome', '1', 1.2614, 1] 
+
+['F-zeryo x', '111', '32', 'A', '1000', '-1', 'Mouser', '1', 'White len EX', '284', '38', 'A', '1000', '-1', 'H&youngkirei&take.k', '1', 0.5889, 1] 
+
+['Daigo hotta', '109', '38', 'A', '1000', '-1', 'Mugen d. luffy&kayui uma', '1', 'Deathscythe ao', '108', '64', 'A', '1000', '-1', 'Ao', '1', 0.2642, 1] 
+
+['Lian-d', '42', '74', 'A', '1200', '-1', 'A487561j', '1', 'Lf2 - firen', '201', '59', 'A', '1000', '-1', 'Deoxgigas', '1', 9.086, 0] 
+
+['Rei akof', '31', '68', 'A', '1044', '-1', 'Nekome', '1', 'White len EX', '285', '39', 'A', '1000', '-1', 'H&youngkirei&take.k', '1', 1.3852, 0] 
+
+['Deathscythe ao', '109', '64', 'A', '1000', '-1', 'Ao', '1', 'Lian-d', '43', '74', 'A', '1200', '-1', 'A487561j', '1', 0.2357, 0] 
+
+['Rei akof', '32', '69', 'A', '1044', '-1', 'Nekome', '1', 'Deathscythe ao', '109', '64', 'A', '1000', '-1', 'Ao', '1', 1.275, 0] 
+
+['Kamijo toma EX', '311', '34', 'A', '1000', '3000', 'Otika', '12', '94_flan', '305', '51', 'S', '1000', '5000', 'Koma', '12', 0.2925, 1] 
+
+['Slamgief / Hugo_musclebomber', '160 / 110', '53 / 50', 'S / S', '1000 / 1200', '-1 / -1', 'Kamekaze / Sion_love_nameless', '1 / 1', 'Nazrin deluxe / Spacemouse deluxe', '35 / 363', '51 / 79', 'S / S', '1000 / 1001', '-1 / -1', 'Spacemouse / Spacemouse', '2 / 1', 0.2087, 1] 
+
+['Opirus element / Element kofm', '305 / 314', '68 / 69', 'S / S', '1000 / 1200', '-1 / -1', 'Beppu / Zelgadis', '1 / 1', 'Justice / Mahvel ken', '657 / 353', '71 / 66', 'S / S', '1000 / 1000', '-1 / -1', 'Muteki / Kaz', '1 / 1', 6.444, 0] 
+
+['Oserotto / Oserotto', '93 / 93', '63 / 63', 'A / A', '1200 / 1200', '-1 / -1', 'Ganva / Ganva', '12 / 7', 'Donald / Burger king', '415 / 59', '35 / 12', 'A / B', '950 / 1000', '-1 / -1', 'Kishio / Jay_high19', '2 / 8', 1.3982, 0] 
+
+['Chris_gb / Kanon di jajajajaja', '338 / 23', '49 / 35', 'S / A', '1180 / 1000', '500 / -1', 'Pre-to / Tonyadv', '1 / 1', 'Megafurashi / Raffleia', '95 / 76', '76 / 54', 'S / A', '1000 / 1000', '-1 / -1', 'Zagisan / Zagisan', '1 / 1', 1.3224, 1] 
+
+['Broadway / Dougster', '162 / 311', '64 / 61', 'S / A', '1000 / 1000', '3000 / 1000', 'Mass / (^o^)', '1 / 12', 'Duck king rb2 / Elena_n', '95 / 240', '34 / 52', 'S / A', '1000 / 1000', '-1 / -1', 'Tora / Fido', '1 / 12', 3.7123, 0] 
+
+['Runaway', '5', '80', 'X', '1000', '-1', 'Flowrallia', '12', 'Killer whale', '565', '64', 'S', '1300', '1000', 'N64mario', '1', 0.6642, 1] 
+
+['Daigo ken', '326', '38', 'A', '1000', '-1', 'Gm, edited by blazemanxd', '5', 'Silversamurai', '482', '51', 'S', '1000', '-1', 'Silversamurai', '9', 0.3707, 1] 
+
+['Himekawa kotone', '214', '58', 'A', '1000', '-1', 'Kaze', '1', 'Rio hinayama', '258', '41', 'A', '1100', '-1', 'Tokinokuni-kei', '1', 1.6406, 0] 
+
+['Neff', '375', '79', 'S', '2100', '-1', 'Dark ruler', '1', 'Godzilla-tower', '80', '26', 'B', '2000', '-1', 'Kirbey', '1', 0.9436, 0] 
+
+['Waha+', '116', '49', 'A', '1020', '1000', 'Sfg', '1', 'Dougster', '311', '61', 'A', '1000', '1000', '(^o^)', '4', 0.1735, 1] 
+
+['Saber_alter', '166', '75', 'S', '1600', '-1', 'Pre-to', '12', 'Miko hd', '283', '57', 'S', '1100', '-1', 'Pre-to', '11', 0.8548, 1] 
+
+['Birdie EX3', '186', '61', 'A', '1000', '-1', '?eq', '1', 'Hamburglar', '239', '50', 'A', '1000', '500', '?eq', '1', 3.1947, 0] 
+
+['Homer simpson', '219', '47', 'B', '1200', '4000', 'Warner el tochix', '1', 'Skelegon', '159', '53', 'B', '2200', '-1', 'Dark ruler', '1', 0.4798, 1] 
+
+['Runaway', '5', '80', 'X', '1000', '-1', 'Flowrallia', '1', 'Stupid little drill tank', '361', '59', 'S', '1240', '500', 'Kamek', '1', 3.4123, 1] 
+
+['Hei_f / Crazy mukuro', '427 / 293', '80 / 57', 'X / S', '1000 / 1000', '-1 / 2000', 'Lates&flam / Ahuron', '1 / 2', 'Super homer / Crazy mukuro', '138 / 293', '44 / 57', 'X / S', '6000 / 1000', '15000 / 2000', 'Gulthor / Ahuron', '12 / 3', 0.717, 0] 
+
+['Future gohan', '27', '67', 'A', '1000', '-1', '280gou', '12', 'T-h-m-a', '393', '70', 'S', '1740', '-1', 'Yes', '12', 1.3646, 0] 
+
+['Hiyoi', '9', '44', 'X', '1500', '-1', 'Blackcurl', '7', 'King of black dragon', '8', '50', 'X', '1500', '-1', 'Kairuier', '12', 0.386, 1] 
+
+['Rain mk2 / Zankuro ex', '326 / 209', '34 / 62', 'A / A', '1000 / 1000', '-1 / -1', 'Juano16 / Misao', '1 / 1', 'Rei-kugo / Cody(neoneo)', '289 / 232', '58 / 56', 'A / A', '1000 / 1000', '500 / -1', 'Ankokunaitou / Hh', '1 / 1', 1.081, 0] 
+
+['A-celsius', '157', '48', 'X', '1300', '-1', '', '1', 'Ultimate pretty suika', '157', '90', 'X', '1000', '-1', 'Suika_no_otto', '1', 0.0538, 1] 
+
+['Fair akuma', '26', '62', 'A', '1000', '-1', 'Phantom.of.the.server, neutered by garjian', '1', 'Shadow fiend', '24', '67', 'A', '666', '-1', 'Rin', '3', 0.5159, 1] 
+
+['Rogue / Cajun gambit EX7', '387 / 21', '60 / 67', 'B / S', '1000 / 1000', '-1 / -1', 'Acey / Dcl', '1 / 1', 'Mango sentinel / Umvc_sentinel', '164 / 324', '79 / 43', 'S / S', '1000 / 900', '-1 / -1', 'Xslaught / Rel', '12 / 12', 0.1171, 1] 
+
+['Melt koa', '7', '100', 'X', '1000', '-1', 'Reddosukato', '12', 'Rugal 3rd', '3', '100', 'X', '1000', '-1', 'Stg', '7', 0.8863, 0] 
+
+['Runaway', '5', '80', 'X', '1000', '-1', 'Flowrallia', '8', 'Genocide sans', '8', '63', 'X', '2', '-1', 'Stg', '3', 0.0691, 1] 
+
+['Soccer len / Kouyalen', '16 / 100', '50 / 67', 'NEW / A', '1000 / 1000', '-1 / 3000', 'Elecbyte / Zenjidoh', '12 / 11', 'Basketball len / Basketball len', '89 / 89', '56 / 56', 'A / A', '1000 / 1000', '3000 / 3000', 'Elecbyte / Elecbyte', '8 / 4', 2.5003, 0] 
+
+['Akaitsuki EX', '304', '58', 'A', '1000', '-1', 'Shiroto', '4', 'Jyuzumaru', '309', '50', 'A', '1000', '-1', 'Ikaruga', '4', 2.6456, 0] 
+
+['Eve silvan', '276', '64', 'S', '1000', '-1', 'Hanma', '3', "Nests' clone kyo army", '24', '79', 'S', '1000', '-1', 'Thepaper', '4', 0.8118, 1] 
+
+['Asutorea', '253', '54', 'A', '1000', '-1', 'Sankiti', '3', 'Astro', '300', '49', 'A', '1000', '-1', '(^o^)', '3', 0.8048, 0] 
+
+['Fuhashitei', '215', '63', 'A', '1000', '-1', 'Icl', '4', 'Kurumi mirumati', '25', '72', 'A', '1000', '-1', 'Kagetsu yuki', '3', 1.7464, 0] 
+
+["True k'", '337', '49', 'A', '1000', '-1', 'Mkj', '1', 'Minmin', '304', '53', 'A', '1000', '-1', 'Ankokunaitou', '3', 0.7977, 1] 
+
+['Boomerang_boy', '96', '64', 'A', '1000', '-1', 'Ryun&teoke', '3', 'Demonica', '251', '46', 'A', '1000', '-1', 'Arthur', '2', 5.4621, 1] 
+
+['Billy kane', '309', '44', 'A', '1000', '-1', 'Infinite', '4', 'Valdoll', '280', '41', 'A', '1100', '-1', 'Doggiedoo', '3', 0.5787, 0] 
+
+['Ryo sakazaki special', '133', '46', 'A', '1000', '-1', 'Masa', '3', 'Sion tatari EX', '282', '42', 'A', '1000', '-1', 'Shiroto', '2', 0.286, 1] 
+
+['Team reimisen', '351', '56', 'A', '900', '-1', 'Txpot', '3', 'Vritra', '192', '55', 'A', '1000', '-1', 'Ikaruga', '3', 0.5646, 1] 
+
+['Alice margatroid', '81', '25', 'B', '1000', '-1', 'Atusi', '3', 'Pocket tylor', '253', '51', 'B', '2000', '-1', 'Tylorthehedgehog', '4', 0.1051, 1] 
+
+['Elisabeth xiii', '72', '72', 'A', '1000', '-1', 'Flowrallia', '1', 'Zoma', '288', '35', 'A', '1024', '-1', 'Marktwo', '1', 18.087, 0] 
+
+['Bobby drake', '29', '72', 'S', '1000', '-1', 'Iceman', '3', 'Tokinomiya kamui', '307', '61', 'S', '970', '-1', 'X}u[', '1', 1.4495, 0] 
+
+['Galactus', '346', '66', 'S', '4000', '-1', 'Excursion/n64mario/kalangueb', '3', 'Lemeza', '239', '69', 'S', '1000', '-1', 'Spacemouse', '4', 1.1256, 1] 
+
+['Divekick kfm', '417', '43', 'A', '1000', '-1', 'Vosper', '4', 'C3reimu', '271', '56', 'A', '1000', '-1', 'Abab', '4', 0.1797, 1] 
+
+['The moon', '423', '78', 'S', '2000', '-1', 'Fhqwhgads7', '3', 'Ky(ac)', '158', '45', 'S', '1000', '-1', 'Muteki (chu-nin ai)', '4', 13.4531, 0] 
+
+["Burnin' leo", '229', '40', 'S', '1000', '-1', 'Jango', '3', 'Magic dunker EX FF', '285', '41', 'S', '1000', '-1', 'Shimon', '3', 0.5143, 1] 
+
+['Earl', '243', '56', 'B', '1000', '-1', 'Roysquadrocks', '2', 'Jin kazama', '319', '61', 'B', '1000', '-1', 'Seanaltly', '1', 0.4226, 1] 
+
+['Setsuna hsr', '308', '46', 'A', '1000', '-1', 'Hsr', '3', 'Tourney pikachu', '251', '44', 'A', '1000', '-1', 'Zobbes [originally by xed (xedarts)]', '1', 3.4531, 0] 
+
+['Lenalee-mvc EX3', '212', '42', 'A', '1000', '-1', 'Uru', '3', 'Heavy rob', '179', '59', 'A', '2750', '-1', 'H. a. l . l .', '1', 0.131, 1] 
+
+['Ken', '567', '55', 'B', '1000', '-1', 'Kamekaze', '1', 'Nobunaga', '310', '50', 'B', '1000', '-1', 'Nobun', '4', 0.3029, 0] 
+
+['Tyrantrum', '101', '41', 'S', '1000', '-1', 'Minoo', '1', 'Hu-ama', '324', '77', 'S', '1060', '-1', 'Ria', '3', 0.0513, 1] 
+
+['Durian EX3', '217', '53', 'A', '1300', '-1', 'Tokage', '3', 'Thunder mask', '306', '58', 'A', '1000', '-1', 'Googoo64', '4', 1.4665, 0] 
+
+['Joker EX3', '191', '59', 'A', '1000', '-1', '1%', '2', 'Orin', '140', '67', 'A', '1000', '-1', 'Hetyo', '4', 0.3244, 1] 
+
+['Another blood k', '244', '61', 'A', '750', '-1', 'Akagik', '1', 'Jin saotome', '349', '48', 'A', '1000', '-1', 'Thomas hsieh', '2', 9.5989, 0] 
+
+['Mech-hisui', '294', '66', 'B', '1000', '-1', 'Rajaaboy', '1', 'D4 rider', '54', '69', 'B', '1000', '-1', 'Rioriot', '1', 0.5291, 0] 
+
+['Zabogar', '163', '56', 'X', '1200', '0', 'Googoo64', '1', 'Rare akuma', '828', '78', 'X', '2000', '9000', 'Phantom.of.the.server', '1', 0.0089, 1] 
+
+['Nf-kyo EX3', '161', '53', 'B', '1000', '-1', 'H. a. l . l .', '3', 'Chonrei W', '129', '31', 'B', '1000', '-1', 'Websta', '4', 11.8408, 0] 
+
+['Double_sword', '212', '52', 'A', '1000', '-1', 'Mir', '4', 'Noroko EX3', '204', '39', 'A', '1000', '-1', 'Andres borghi', '1', 2.9986, 1] 
+
+['Giant Ultraman', '294', '45', 'S', '1300', '-1', 'Kuma', '3', 'Ss6 renfa EX2', '292', '38', 'S', '1000', '-1', 'Suigin', '3', 0.8699, 1] 
+
+['Dormammu-r', '262', '69', 'S', '1000', '-1', 'Ahuron', '3', 'Tio&megumi', '156', '61', 'S', '1000', '-1', 'Shimon', '4', 6.1801, 0] 
+
+['Machinegun unit', '27', '22', 'A', '1100', '-1', '?', '4', 'Sakuya.s.brando', '141', '74', 'A', '1000', '-1', 'Gatt', '1', 0.0341, 1] 
+
+['Tennma kazusanosuke', '31', '84', 'S', '1000', '-1', 'Karasuba_iro', '1', 'Blender', '105', '29', 'S', '1000', '-1', 'Sonicadam2 & darkluigi', '2', 43.4701, 0] 
+
+['Yoko EX', '186', '46', 'B', '945', '-1', 'Warusaki3', '3', 'Licht', '173', '66', 'B', '1000', '-1', 'Masukenpu-kunx', '4', 0.4835, 0] 
+
+['Sailor mars EX', '162', '28', 'B', '1000', '-1', 'Sakuraka', '2', 'Miyuki EX', '200', '66', 'B', '1000', '-1', 'Sakuraka', '1', 0.1299, 1] 
+
+['Dirty heart', '92', '73', 'A', '1500', '-1', 'Ao', '1', 'Darkman', '258', '48', 'A', '1000', '-1', 'Mass', '2', 6.9648, 0] 
+
+['S.sinclair', '295', '60', 'S', '1000', '-1', 'Hiramoto', '1', 'Godzillen', '103', '63', 'S', '2000', '-1', 'K (ikuiku ai)', '2', 2.0927, 0] 
+
+['Human kazuya', '25', '48', 'S', '1000', '-1', 'Sdot_thadon', '3', 'Matunaga yukari', '175', '56', 'S', '1000', '-1', 'Abab', '2', 0.161, 1] 
+
+['Nikumaru', '265', '53', 'B', '1000', '-1', 'Googoo64', '1', 'Lei-lei', '279', '53', 'B', '940', '-1', 'Phantom.of.the.server', '2', 1.2788, 0] 
+
+['George', '302', '54', 'A', '1000', '-1', 'Yu-toharu', '4', 'Platonic twins', '30', '43', 'A', '1000', '-1', 'Luchini', '2', 3.8063, 1] 
+
+['Terminator orochi', '100', '39', 'S', '1000', '-1', 'Jor8a (edited) elecbyte (made)', '1', 'Kagami ex', '218', '61', 'S', '1000', '-1', 'Hal', '2', 1.0845, 0] 
+
+['Hato sabure', '371', '54', 'A', '1600', '-1', 'Elecbyte', '4', 'Tia langray', '195', '46', 'A', '1000', '-1', '(^o^)', '4', 0.7282, 0] 
+
+['God gundam EX', '154', '45', 'B', '1000', '-1', 'Hyuga', '4', 'Oniska', '24', '58', 'B', '1000', '-1', 'Aiacos', '1', 0.2239, 1] 
+
+['Lemeza', '240', '69', 'S', '1000', '-1', 'Spacemouse', '1', 'G-adelheid', '289', '71', 'S', '1000', '-1', 'Jin, edited by dls', '2', 0.416, 0] 
+
+['Ranma saotome EX2', '221', '53', 'A', '1000', '-1', 'Nyankiryu', '4', 'Kyouken wakamoto', '296', '61', 'A', '1000', '-1', '', '2', 0.5577, 1] 
+
+['Maxima-xi', '27', '22', 'B', '1000', '-1', 'Gargoyle', '4', 'Yacopu', '177', '34', 'B', '1000', '-1', 'Kung fu man', '1', 0.9974, 1] 
+
+['Koneko EX', '307', '57', 'A', '1000', '-1', 'Sankiti', '3', 'Wei', '74', '35', 'A', '1000', '-1', 'Mikita', '4', 6.6877, 0] 
+
+['Spopovich by szowel', '58', '26', 'B', '1000', '-1', 'Szowel', '3', 'Buguu', '173', '55', 'B', '1000', '-1', 'Masukenpu-kun', '1', 0.1879, 1] 
+
+['Psychotic ryu', '290', '55', 'A', '1000', '-1', 'Reu', '2', "Chip's challenge", '117', '29', 'A', '1000', '-1', 'Spacemouse', '3', 4.0609, 0] 
+
+['Minori amanohara', '24', '58', 'A', '1000', '-1', 'Flowrallia', '4', 'Boomy the cat', '80', '36', 'A', '1000', '-1', 'Melvanainchains', '4', 3.9479, 1] 
+
+['Kyo cvs2', '69', '36', 'S', '1000', '-1', 'Warusaki3 (yuki ai)', '4', 'Mawile', '281', '62', 'S', '1000', '-1', 'Spacemouse', '3', 0.3412, 1] 
+
+[0] 
+
+['Ultimate gohan', '111', '76', 'S', '1000', '-1', 'Sui', '1', 'Ssj vegeto', '382', '52', 'S', '1000', '-1', 'Kamekaze', '1', 4.1176, 0] 
+
+['Kaen', '164', '54', 'S', '1000', '-1', 'Tamago kanten', '1', 'Nokia 3310', '30', '50', 'S', '1500', '-1', 'Synck', '1', 1.666, 1] 
+
+['Satsujinki EX3', '228', '37', 'S', '1000', '-1', 'Krsmshow', '1', 'Ishtar', '335', '67', 'S', '1500', '-1', 'Elecbyte', '1', 0.5141, 1] 
+
+['Zantetsu ex', '276', '35', 'S', '1000', '-1', 'Nyankoro & kokekoko', '1', 'Nayu mizuhara', '328', '42', 'S', '1600', '-1', 'Ohgaki', '1', 0.4517, 1] 
+
+[0] 
+
+['Miyuki', '285', '66', 'A', '1000', '-1', 'Ns', '1', 'Fcmeirin EX2', '251', '42', 'A', '1000', '-1', 'Fu-lin', '4', 5.1866, 0] 
+
+['Shana_k', '27', '63', 'A', '1000', '-1', 'Kohaku', '4', 'Lf2 - davis', '211', '42', 'A', '1000', '-1', 'Deoxgigas', '3', 2.5349, 0] 
+
+['Adol_c EX3', '11', '9', 'P', '1000', '-1', 'Ankokunaitou', '3', 'Gokuraku tarou', '23', '9', 'P', '1100', '-1', 'Shimon', '1', 0.4839, 1] 
+
+['Awakened kaede', '32', '78', 'S', '1105', '-1', 'Ohgaki', '3', 'Sol(ac)', '176', '73', 'S', '1000', '-1', 'Muteki (yuki ai)', '2', 0.5143, 1] 
+
+['Ikkaku', '403', '61', 'S', '1000', '-1', 'Bwdyeti', '2', 'Hugo_musclebomber', '110', '50', 'S', '1200', '-1', 'Sion_love_nameless', '1', 0.2488, 1] 
+
+['Washizu iwao', '34', '74', 'S', '1000', '-1', 'Kouzyoutyou2621', '3', 'D-rugal EX3', '241', '49', 'S', '1000', '-1', 'Ahuron', '1', 2.4739, 0] 
+
+['Opirus element', '305', '68', 'S', '1000', '-1', 'Beppu', '1', 'Mictlan', '327', '75', 'S', '1000', '-1', 'Muko', '1', 1.3907, 1] 
+
+['Ichi', '265', '46', 'B', '3000', '-1', 'Argol & glory & m(pierre-louis raignoux)', '3', 'Nabeatu', '105', '33', 'B', '1000', '-1', 'Googoo64', '4', 2.2676, 0] 
+
+['Big ptolemaic tank', '195', '68', 'A', '1000', '-1', 'Txpot', '1', 'Chain combo yuyuko', '354', '58', 'A', '1000', '-1', 'Suika_no_otto', '3', 0.6967, 1] 
+
+['Kogasa_f', '204', '44', 'B', '1000', '-1', 'Minoo', '4', 'Gray fullbuster', '209', '40', 'B', '1000', '-1', 'Alexei roschak', '1', 7.4402, 0] 
+
+['Gouki', '303', '36', 'S', '1000', '-1', 'Gonzo-', '1', 'S.o.g', '325', '54', 'S', '1000', '-1', 'Rakurai', '2', 0.0975, 1] 
+
+['Kyogoku majikina mioh', '30', '57', 'S', '1000', '-1', 'Cerenas', '4', 'Uranus', '27', '52', 'S', '1000', '-1', 'Sustina', '1', 0.5911, 1] 
+
+['Sanada ani', '27', '70', 'A', '1105', '-1', 'Ohgaki', '4', 'Dark cornian', '299', '56', 'A', '1020', '-1', 'Dark ruler', '3', 2.0518, 1] 
+
+['Kubiwatuki_kemono', '28', '36', 'A', '750', '-1', 'Elecbyte', '4', 'Alice carrol', '26', '62', 'A', '1000', '-1', 'Nhk', '3', 0.2418, 1] 
+
+['Sol', '432', '51', 'S', '1000', '-1', 'Muteki', '4', 'Tenko', '341', '38', 'S', '1000', '-1', 'Ao', '1', 4.9024, 0] 
+
+['Mira', '237', '61', 'A', '1100', '-1', 'Goshu', '1', 'Dark queen carmilla', '26', '65', 'A', '1250', '-1', 'Sakuraka', '1', 0.3806, 1] 
+
+['Pepsiman', '29', '69', 'S', '1000', '-1', 'Suteneko', '4', 'Rockman_exe', '93', '68', 'S', '1000', '-1', 'I no soko no rikugame', '1', 0.4441, 1] 
+
+['P3 heroine', '305', '58', 'A', '1420', '-1', 'Hisame', '3', 'Tekkamann-lance', '92', '46', 'A', '1000', '-1', 'Ecoshi', '4', 2.7458, 0] 
+
+['P3 heroine', '305', '58', 'A', '1420', '-1', 'Hisame', '3', 'Tekkamann-lance', '92', '46', 'A', '1000', '-1', 'Ecoshi', '4', 2.7458, 0] 
+
+['Ren mizusaka', '350', '42', 'S', '1000', '-1', 'Iwakick', '1', 'Hei meiling', '322', '58', 'S', '1000', '-1', 'Mother earth', '2', 0.6077, 1] 
+
+['Eiji shirow', '99', '46', 'S', '1000', '-1', 'Orochi dark cloud & rick pk liquid snake', '2', 'Benimaru EX3', '231', '74', 'S', '1576', '-1', 'Ninniku', '2', 0.0643, 1] 
+
+['Azteca', '375', '78', 'S', '1200', '-1', 'Seki-rou', '3', 'Atatatatatatata', '389', '59', 'S', '1000', '-1', 'Saikei', '3', 6.8602, 0] 
+
+['Katana', '241', '44', 'A', '1000', '-1', 'Ns', '3', '17th angel', '207', '44', 'A', '1700', '-1', 'Tonyadv', '3', 0.479, 1] 
+
+['Horaizon ver1.02', '196', '58', 'A', '1000', '-1', 'Sakura', '2', 'Venom GG', '303', '47', 'A', '1000', '-1', 'Muteki', '1', 0.979, 0] 
+
+['Monk EX3', '211', '30', 'A', '1000', '-1', 'Kishio', '4', 'Sittara', '276', '50', 'A', '1000', '-1', 'Cafe', '4', 0.3135, 1] 
+
+['Redking', '257', '69', 'S', '1200', '-1', '?', '3', 'Syobo-n', '290', '42', 'S', '1000', '-1', 'Epigon', '1', 5.6188, 0] 
+
+['Kuroko EX2', '277', '57', 'A', '1000', '-1', 'Gonzo-', '3', 'Cci xiangfei', '214', '40', 'A', '1000', '-1', 'David demianoff', '2', 3.0682, 0] 
+
+['Goddman batman', '237', '61', 'B', '1000', '-1', 'Cybaster', '1', 'Cobra', '165', '50', 'B', '1000', '-1', 'Butchy (graphics) & mike werewolf (code)', '4', 2.3037, 1] 
+
+['Tenko-abab', '276', '59', 'A', '1000', '-1', 'Suigin', '3', 'Shigure', '113', '62', 'A', '850', '-1', 'Ir', '2', 0.3537, 1] 
+
+['Fcmeirin EX2', '252', '42', 'A', '1000', '-1', 'Fu-lin', '1', 'Sasquatch', '405', '55', 'A', '1000', '-1', 'Sander71113 + beto', '4', 0.2194, 1] 
+
+['Hitsugaya', '347', '46', 'S', '1000', '-1', 'Ikaruga', '1', 'Tio&megumi', '157', '61', 'S', '1000', '-1', 'Shimon', '2', 1.3379, 1] 
+
+['Mizore s.', '272', '52', 'A', '1000', '-1', 'Zelgadis', '2', 'Kazu', '334', '48', 'A', '1000', '-1', 'The_none', '3', 1.3338, 0] 
+
+['Satsuki yumiduka EX', '324', '82', 'S', '1000', '-1', 'Iqs', '3', 'Mahvel chun li', '298', '44', 'S', '1000', '-1', 'Kaz', '2', 11.3892, 0] 
+
+['Bonegolem', '310', '58', 'S', '1100', '-1', 'Dxwho', '4', 'Cyber akuma', '115', '39', 'S', '1500', '-1', 'Darkriem', '4', 2.7397, 0] 
+
+['Petra johanna lagerkvist', '107', '54', 'S', '1000', '-1', 'Ina', '4', 'Storm_cota', '301', '50', 'S', '1000', '-1', 'Kaz', '3', 1.0303, 0] 
+
+['Oswald_deadly', '105', '87', 'X', '4000', '0', 'Ahuron', '1', 'Shana dbfc', '50', '36', 'X', '1000', '6000', 'Zet', '2', 38.6731, 0] 
+
+['Roll', '388', '51', 'B', '1000', '-1', 'Ibukah', '2', 'Butt-head', '213', '33', 'B', '700', '-1', 'Godebal', '2', 10.8482, 0] 
+
+['Aladdin EX3', '156', '58', 'B', '1260', '-1', 'Dj hannibalroyce', '4', 'TBonne', '172', '28', 'B', '1000', '-1', 'Spy 0070 & ryou win', '4', 11.1296, 0] 
+
+['Scharlachrot-a', '170', '71', 'S', '1000', '-1', 'Aki (yuki ai)', '4', 'Saori - athena', '400', '43', 'S', '2000', '-1', 'Grafica : shunchain y programacion : tecla2000', '2', 10.8326, 0] 
+
+['Kotiya sanae', '268', '64', 'A', '1000', '-1', 'Akakedama', '1', 'Cpt. falcon', '380', '52', 'A', '1040', '-1', 'Kamekaze', '1', 3.2511, 1] 
+
+['Kishimax EX2', '290', '30', 'S', '1100', '-1', 'Hm', '4', 'Precure', '132', '67', 'S', '1000', '-1', 'Drowin', '4', 0.1523, 1] 
+
+['Ken', '568', '55', 'B', '1000', '-1', 'Kamekaze', '4', 'Gigigear', '206', '49', 'B', '1000', '-1', 'Showbuyspirit', '2', 0.3984, 1] 
+
+['Dhalsim3', '83', '67', 'B', '1000', '-1', '3ha', '3', 'Dark excellent takuma', '34', '18', 'B', '1000', '-1', 'Neohoshi', '1', 10.8255, 0] 
+
+['Vanessa', '302', '51', 'B', '1000', '-1', 'Deuce', '3', 'Practice Vegeta', '161', '35', 'B', '1100', '-1', 'null', '3', 6.4331, 0] 
+
+[1.8677, 1] 
+
+['Shadow labrys', '155', '54', 'S', '1000', '-1', 'Aki', '1', 'New rubber soul', '256', '65', 'S', '500', '-1', '', '4', 0.6171, 1] 
+
+['Element kofm', '314', '69', 'S', '1200', '-1', 'Zelgadis', '1', 'Jessica', '262', '42', 'S', '1200', '-1', 'Shuu', '4', 15.4521, 0] 
+
+[1] 
+
+['N-geese', '126', '39', 'A', '1000', '-1', 'Jin', '1', 'Morgiana EX2', '200', '36', 'A', '1120', '-1', 'Mir', '1', 2.2136, 0] 
+
+['Cvssantamu', '117', '38', 'A', '945', '-1', '26824628', '1', 'D4 reimu', '272', '50', 'A', '1000', '-1', 'Maitake', '1', 0.1956, 1] 
+
+['Boggy', '257', '61', 'A', '1000', '-1', 'Mass', '1', 'Katana EX3', '199', '42', 'A', '1000', '-1', 'Ns', '1', 5.2784, 0] 
+
+['Kilyousuke ex', '216', '37', 'A', '1000', '-1', 'Pre-to', '1', 'Akane satomura EX2', '277', '55', 'A', '1000', '-1', '586', '1', 0.1852, 1] 
+
+['M. bison hd', '27', '44', 'A', '1000', '-1', 'Parse', '1', 'Fang', '310', '53', 'A', '1300', '-1', 'Mugenhunter', '1', 0.2694, 1] 
+
+['Nukesaku EX2', '304', '63', 'A', '1000', '-1', 'Ngi', '1', 'N-geese', '127', '39', 'A', '1000', '-1', 'Jin', '1', 3.8624, 0] 
+
+['D4 reimu', '273', '50', 'A', '1000', '-1', 'Maitake', '1', 'Boggy', '258', '62', 'A', '1000', '-1', 'Mass', '1', 0.5873, 1] 
+
+['Akane satomura EX2', '278', '55', 'A', '1000', '-1', '586', '1', 'Fang', '311', '53', 'A', '1300', '-1', 'Mugenhunter', '1', 1.0954, 0] 
+
+['Nukesaku EX2', '305', '64', 'A', '1000', '-1', 'Ngi', '1', 'Boggy', '259', '62', 'A', '1000', '-1', 'Mass', '1', 2.8195, 1] 
+
+['Akane satomura EX2', '279', '55', 'A', '1000', '-1', '586', '1', 'Boggy', '259', '62', 'A', '1000', '-1', 'Mass', '1', 0.8533, 1] 
+
+['Thundermiss.shermie / Goku-hell', '106 / 164', '75 / 80', 'S / S', '2000 / 1000', '5000 / -1', 'Ahuron / Hell', '12 / 12', 'Cyclopes', '116', '45', 'X', '1000', '-1', 'Aaa', '12', 3.869, 0] 
+
+['Fatter tony / Mimizuku_professor', '60 / 60', '63 / 70', 'B / B', '1100 / 1180', '-1 / -1', 'Hanbahan / Hanbahan', '1 / 1', 'Shiki_sv', '35', '89', 'S', '1380', '3000', 'Sui', '1', 0.5902, 1] 
+
+['Auto battle data / Barom1', '4 / 198', '75 / 86', 'X / X', '1000 / 1000', '-1 / -1', 'Darknesskyo / Googoo64', '5 / 4', 'Azuma / B-b-h-hayato', '22 / 18', '55 / 61', 'X / X', '1000 / 1000', '-1 / -1', 'Kagenui / Kuron', '4 / 8', 2.0898, 0] 
+
+['Veku', '446', '26', 'B', '1320', '500', 'Fatass-!', '12', 'Judgement', '143', '27', 'P', '1000', '-1', 'Corntortillas', '1', 1.0083, 1] 
+
+['Servant emiya / Another gloria', '164 / 46', '73 / 48', 'S / X', '1300 / 1000', '-1 / -1', 'null / Pre-to', '1 / 1', 'Omega god ken', '165', '64', 'X', '1000', '-1', 'null', '1', 7.244, 0] 
+
+['Happy.valentine', '92', '47', 'A', '1000', '-1', 'Migo', '1', 'Emperor mateus', '93', '47', 'A', '1000', '-1', 'Dager', '1', 0.6735, 0] 
+
+['El presidente / Nappa', '40 / 54', '78 / 31', 'X / P', '6500 / 1500', '-1 / -1', 'Sfg / null', '1 / 1', 'Genocide sans / Genocide sans', '8 / 8', '63 / 63', 'X / X', '2 / 2', '-1 / -1', 'Stg / Stg', '12 / 11', 3.5871, 1] 
+
+['Boggy b / Boggy b', '329 / 329', '60 / 60', 'A / A', '1100 / 1100', '-1 / -1', 'Aku ma / Aku ma', '1 / 1', 'Metalgear rex', '249', '51', 'S', '1000', '-1', 'Bartlett', '1', 8.9557, 0] 
+
+['Tony won / Ron max', '263 / 313', '47 / 40', 'A / B', '1400 / 1100', '-1 / -1', 'Mitai dake / Mitai dake', '7 / 6', 'Serena corsair / Sailor uranus', '101 / 367', '50 / 51', 'A / A', '1000 / 1000', '-1 / 3000', 'Curze / Ns', '3 / 5', 0.8272, 1] 
+
+['Dormammu-r / Cajun gambit EX7', '263 / 21', '69 / 67', 'S / S', '1000 / 1000', '5000 / -1', 'Ahuron / Dcl', '1 / 1', 'Sigfried doble de alfa / Cyclops_cota', '24 / 301', '67 / 63', 'A / S', '1000 / 1000', '500 / -1', 'Aqualudo et pegasuseb saint seiya alliance team / Kaz', '1 / 1', 0.686, 0] 
+
+['Nmori_yagami / Nmori_yagami', '191 / 191', '75 / 75', 'S / S', '1200 / 1200', '-1 / -1', 'Adamlexus, fixed by superoverlord meep / Adamlexus, fixed by superoverlord meep', '1 / 1', 'Dizzy / Dizzy', '426 / 426', '67 / 67', 'S / S', '1000 / 1000', '-1 / -1', 'Muteki / Muteki', '1 / 1', 3.1531, 0] 
+
+['Final dio / Dio', '89 / 192', '46 / 33', 'S / P', '1020 / 1000', '-1 / -1', 'Warusaki3 / Warusaki3', '8 / 9', 'Joseph joestar EX3 / Jonathan joestar', '214 / 121', '49 / 40', 'A / S', '1400 / 1000', '10000 / -1', 'Y.y / Anomi polis', '2 / 1', 2.3688, 1] 
+
+['Rbff master geese / Miko hd', '444 / 283', '83 / 57', 'S / S', '2000 / 1100', '1000 / -1', 'Cannon musume / Pre-to', '1 / 1', 'Shiki tohno iqs / Shiki ryougi iqs', '377 / 32', '80 / 81', 'S / S', '1000 / 1000', '-1 / -1', 'Iqs / Iqs', '1 / 1', 0.7074, 1] 
+
+['Dhaos', '66', '35', 'X', '30000', '-1', 'Lt', '10', 'Miyako yoshika / Miyako yoshika', '307 / 307', '59 / 59', 'A / A', '1000 / 1000', '3000 / 3000', 'Moiky / Moiky', '10 / 10', 0.5412, 1] 
+
+['Melt koa / Smasher', '7 / 10', '100 / 80', 'X / X', '1000 / 1000', '-1 / -1', 'Reddosukato / Stg', '12 / 11', "Rugal 3rd / Rugal's panther zoo", '3 / 4', '100 / 100', 'X / X', '1000 / 1000', '-1 / -1', 'Stg / 17th_star', '8 / 8', 0.1324, 0] 
+
+['Xerxes / Skelegon', '274 / 159', '44 / 53', 'A / B', '2000 / 2200', '-1 / -1', 'Dark ruler / Dark ruler', '1 / 1', 'Dark cornian / Drake', '300 / 216', '56 / 48', 'A / B', '1020 / 1420', '-1 / -1', 'Dark ruler / Dark ruler', '1 / 1', 1.3155, 1] 
+
+['Kraken / Mega_donald', '343 / 31', '48 / 35', 'S / X', '1000 / 3000', '-1 / -1', 'Phantom.of.the.server / Elecbyte', '2 / 4', 'Dolphin / Killer whale', '82 / 565', '43 / 64', 'X / S', '2200 / 1300', '-1 / 1000', 'Kairiphin / N64mario', '12 / 12', 0.6877, 1] 
+
+['Tony won / Fatter tony', '263 / 60', '47 / 63', 'A / B', '1400 / 1100', '-1 / -1', 'Mitai dake / Hanbahan', '4 / 4', 'Ron max / Mimizuku_professor', '313 / 60', '40 / 70', 'B / B', '1100 / 1180', '-1 / -1', 'Mitai dake / Hanbahan', '4 / 4', 1.9054, 0] 
+
+['Megaman EX2 / Airman', '70 / 121', '60 / 39', 'X / P', '1000 / 1000', '-1 / -1', 'Megaman / Laspacho, darkcipherlucius, magma dragoon', '4 / 1', 'Ring man ga taosenai', '21', '24', 'X', '1031', '-1', 'Twistedsynapse (base char: ringman by calamix)', '1', 1.8291, 1] 
+
+['Soccer len / Soccer len', '16 / 16', '50 / 50', 'NEW / NEW', '1000 / 1000', '-1 / -1', 'Elecbyte / Elecbyte', '11 / 10', 'Zombie / Hsien-ko', '163 / 109', '32 / 61', 'B / A', '1500 / 900', '-1 / -1', 'The pizzaman / Phantom.of.the.server', '1 / 1', 5.2144, 0] 
+
+['Papillonnage matchouli / Farmer', '83 / 16', '73 / 0', 'B / B', '1000 / 1000', '-1 / -1', 'Miyabi / Team z2', '2 / 1', 'S-yuuka / Farmer', '311 / 16', '49 / 0', 'A / B', '1000 / 1000', '-1 / -1', 'Ni-san / Team z2', '2 / 1', 0.2122, 1] 
+
+['Hitomi karasuma / Hitomi karasuma', '24 / 24', '63 / 63', 'B / B', '1100 / 1100', '-1 / -1', 'Nenmin / Nenmin', '5 / 6', 'Kisume / Kisume EX', '103 / 258', '41 / 56', 'B / A', '1000 / 1200', '-1 / 2000', 'Kita / Kita', '5 / 6', 0.185, 0] 
+
+['Creeper / Farmer', '378 / 16', '42 / 0', 'A / B', '420 / 1000', '-1 / -1', 'Nazrin_no_otto / Team z2', '1 / 1', 'Runaway', '5', '80', 'X', '1000', '-1', 'Flowrallia', '1', 0.0272, 1] 
+
+['Alvan EX', '165', '49', 'B', '1000', '-1', 'Ironjw', '3', 'Shang tsung mk1', '91', '45', 'B', '1500', '-1', 'Omegapsycho-mk', '2', 0.7381, 1] 
+
+['Dio v', '91', '59', 'X', '1000', '0', 'Warusaki3', '1', 'Necochaosblackg666mk2', '156', '76', 'X', '2200', '0', 'Otto', '1', 0.3132, 1] 
+
+['Real gloria', '306', '69', 'S', '1200', '-1', 'Pre-to', '3', 'Blue worker', '31', '71', 'S', '1000', '-1', 'Peter.pl', '3', 2.6019, 1] 
+
+['Scharlachrot', '277', '59', 'A', '1100', '-1', 'M3', '1', 'Lasher', '323', '51', 'A', '1000', '-1', 'T.o.p.s&spider9696', '4', 4.8089, 0] 
+
+['Infant mutant', '289', '57', 'S', '1000', '-1', 'Werewood', '3', 'Eirin yagokoro', '162', '42', 'S', '1000', '-1', 'Shiroto', '4', 7.6506, 1] 
+
+['Dhaos RD', '312', '80', 'S', '1500', '-1', 'Okina', '4', 'Bloodia EX2', '271', '39', 'S', '930', '-1', 'Qk2key', '1', 25.5387, 0] 
+
+['Angelg', '29', '45', 'S', '1000', '-1', 'Sute', '3', 'Jilche', '87', '41', 'S', '1000', '-1', 'Michiharu', '3', 0.7414, 0] 
+
+['Remilia scarlet', '335', '55', 'A', '1000', '-1', 'Nachel', '2', 'Gori', '282', '55', 'A', '1000', '-1', 'Peter.pl', '4', 4.3689, 0] 
+
+['Sue sakamoto', '360', '68', 'S', '510', '-1', 'The_none', '3', 'Mr. kaze', '98', '64', 'S', '1000', '-1', 'Fxm508', '4', 1.4669, 1] 
+
+['Ares', '120', '68', 'A', '1050', '-1', 'Ares', '4', 'George', '303', '53', 'A', '1000', '-1', 'Yu-toharu', '2', 1.7158, 0] 
+
+['Elite zaku', '84', '51', 'S', '1000', '-1', 'Nhk', '4', 'Vanguard zero', '98', '61', 'S', '1500', '-1', 'Aoba', '3', 0.0754, 1] 
+
+['Youko', '292', '60', 'S', '1000', '-1', 'Rakurai', '4', 'Arrange_mishio', '375', '46', 'S', '1000', '-1', 'Gu', '3', 5.9854, 0] 
+
+['Antlar', '260', '82', 'S', '1100', '-1', '?', '1', 'Ju do man', '351', '33', 'S', '1000', '-1', 'Elecbyte', '2', 27.9816, 0] 
+
+['Mado gakusha', '22', '41', 'A', '100000', '-1', 'Bluishcat', '3', 'Dead vega', '234', '53', 'A', '1100', '-1', 'Phantom.of.the.server', '3', 0.1572, 0] 
+
+['Billy two moons (jp)', '59', '34', 'B', '1000', '-1', 'Melvanainchains', '4', 'Sorami', '208', '50', 'B', '1000', '-1', 'Mass', '2', 0.1632, 1] 
+
+['Aeris dies dot com', '130', '63', 'S', '1000', '-1', 'The great matsutzu', '3', 'Gilgamesh sd', '88', '47', 'S', '1100', '-1', '\u05f7', '3', 3.8637, 0] 
+
+['Heart heat harn', '19', '47', 'B', '1000', '-1', 'Melvanainchains', '2', 'Ktullanux', '68', '32', 'B', '2000', '-1', "Rayx d'great", '4', 4.1739, 0] 
+
+['Road runner', '229', '35', 'A', '1000', '-1', 'Dj hannibalroyce', '3', 'Heart of madness', '36', '67', 'A', '1000', '-1', 'Flowrallia', '2', 0.0504, 1] 
+
+['Divine poison', '119', '27', 'A', '960', '-1', 'Divinewolf', '3', 'Rock howard EX2', '259', '46', 'A', '1000', '-1', 'P-tan', '3', 0.1065, 1] 
+
+['Jet-stingray', '296', '46', 'S', '1000', '-1', 'Snowwolf', '4', 'Chou hi EX7', '31', '45', 'S', '1000', '-1', 'Envymask666, ai by simon99514', '2', 1.7787, 1] 
+
+['Joker_nanaya', '407', '66', 'S', '1000', '-1', 'Aaa', '1', 'Kunagi-f.o', '293', '51', 'S', '1000', '-1', 'Kayui uma', '2', 7.1181, 0] 
+
+['Musu-p', '39', '31', 'P', '1100', '-1', 'Man', '4', 'Hanzou', '54', '35', 'P', '1000', '-1', 'Hiram yagami', '2', 1.9613, 1] 
+
+['Ryo sakazaki special', '134', '46', 'A', '1000', '-1', 'Masa', '2', 'Goat_b', '285', '40', 'A', '1000', '-1', 'Cafe', '4', 1.4751, 0] 
+
+['Juda-(nericya)', '366', '40', 'A', '1000', '-1', 'Nericya', '1', 'Vile EX3', '230', '64', 'A', '1000', '-1', 'Ayumu sekijo', '2', 0.071, 1] 
+
+['Fiona mayfield', '263', '49', 'S', '1040', '-1', 'X}u[', '1', 'Donkey kong mvc', '34', '32', 'S', '1000', '-1', 'Dmsderprogamer', '3', 6.6954, 0] 
+
+['Kaede kasiwagi', '289', '38', 'S', '1200', '-1', 'A-tye', '3', 'Toki', '405', '54', 'S', '1000', '-1', 'Drowin hokuto', '3', 0.2239, 1] 
+
+['Dragon EX3', '227', '46', 'A', '1000', '-1', 'Kayui uma', '1', 'Fluttershy', '33', '79', 'A', '1060', '-1', 'Moku', '4', 0.324, 1] 
+
+['The universe emperor', '76', '30', 'A', '1000', '-1', 'Merufimu', '1', 'Shimakaze', '270', '46', 'A', '1000', '-1', 'Minoo', '4', 0.1473, 1] 
+
+['Maxima EX3', '143', '41', 'B', '1000', '-1', 'Aomura', '1', 'Sakura saber', '21', '43', 'B', '900', '-1', 'Ow', '4', 0.22, 1] 
+
+['Clark', '347', '48', 'A', '1000', '-1', 'Orochikof97', '4', 'Yagami_if', '171', '36', 'A', '1000', '-1', 'Sekirei', '3', 0.9827, 1] 
+
+['Vega', '533', '41', 'A', '1000', '-1', 'Phantom.of.the.server', '3', 'Luke cage', '319', '68', 'A', '2000', '-1', 'Arkady', '2', 0.327, 1] 
+
+['Zenon', '25', '48', 'A', '1000', '-1', 'Hyperhiroro', '3', 'Shishimaru', '290', '42', 'A', '1000', '-1', 'Ali', '3', 2.4468, 0] 
+
+['Alien mefilas', '274', '70', 'S', '1000', '-1', '?', '2', 'Lunatic kaguya', '174', '58', 'S', '1000', '-1', 'Hm', '4', 3.1366, 0] 
+
+['Sakura EX3', '235', '60', 'A', '1000', '-1', 'L.c&mast-chen&gx', '1', 'Dark chun-li', '271', '35', 'A', '1000', '-1', 'Big eli king', '4', 18.0401, 1] 
+
+['Chaoz_gf', '285', '48', 'A', '1000', '-1', 'Ngi', '4', 'Ushio', '283', '55', 'A', '1000', '-1', 'Cabocha', '3', 0.1347, 1] 
+
+['Kotonoha-sama', '150', '47', 'S', '1000', '-1', 'Halu', '1', 'Suwako ai', '312', '75', 'S', '800', '-1', 'Robo', '2', 0.0496, 1] 
+
+['Ferroman', '278', '64', 'B', '1000', '-1', 'Sic-1', '4', 'Genpaku', '191', '26', 'B', '1000', '-1', 'Kgenjuro', '1', 36.6928, 0] 
+
+['Android 16 EX3', '243', '55', 'S', '1000', '-1', 'Choujin', '1', 'Get in the robot you idiot', '252', '49', 'S', '1000', '-1', 'Hsr', '4', 0.7405, 1] 
+
