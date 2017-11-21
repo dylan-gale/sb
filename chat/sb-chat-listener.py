@@ -67,7 +67,6 @@ def main():
             if "PING" in line:
                 s.send(bytes("PONG \r\n", "UTF-8"))
                 send_message("/w casey666666 you want a job m8")
-                print(line)
                 #s.send(line.replace("PING", "PONG").encode())
                 continue
                 
